@@ -1,3 +1,4 @@
+import os
 import streamlit as st
 from sentence_transformers import SentenceTransformer
 import chromadb
@@ -6,7 +7,12 @@ import google.generativeai as genai
 # ==========================================
 # CONFIG
 # ==========================================
-GEMINI_API_KEY = "YOUR_API_KEY"
+# Lấy Key từ file .env ra
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+
+# Kiểm tra xem có lấy được Key không (đề phòng ai đó quên tạo file .env)
+if not GEMINI_API_KEY:
+    st.stop()
 
 genai.configure(api_key=GEMINI_API_KEY)
 
@@ -32,7 +38,7 @@ collection = load_db()
 # ==========================================
 # GEMINI
 # ==========================================
-llm = genai.GenerativeModel("gemini-1.5-flash")
+llm = genai.GenerativeModel("gemini-2.0-flash")
 
 # ==========================================
 # UI
@@ -55,7 +61,7 @@ if st.button("Hỏi"):
     # ======================================
     results = collection.query(
         query_embeddings=[query_embedding],
-        n_results=5,
+        n_results=10,
         include=["documents", "distances"]
     )
 
