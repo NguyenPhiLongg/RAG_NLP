@@ -1486,6 +1486,38 @@ URL: http://fit.hcmute.edu.vn/Default.aspx?TopicId=d08a75c7-2939-4f96-949c-91abc
   ###
 
 ============================================================
+URL: http://fit.hcmute.edu.vn/Default.aspx?TopicId=6e662019-d874-44c3-9e82-f01825989331
+============================================================
+
+[Danh mục bài báo khoa học](/?TopicId=6e662019-d874-44c3-9e82-f01825989331)
+
+* ![](/Services/GetArticleImage.ashx?Id=1be523ce-7287-4242-8478-6521478682d6)
+
+  #### [Năm 2024 (30/07/2025)](/?ArticleId=1be523ce-7287-4242-8478-6521478682d6)
+
+  ###
+* ![](/Services/GetArticleImage.ashx?Id=158d84b5-ddc4-46ea-8b3a-01bb82a9abf6)
+
+  #### [Năm 2023 (16/04/2024)](/?ArticleId=158d84b5-ddc4-46ea-8b3a-01bb82a9abf6)
+
+  ###
+* ![](/Services/GetArticleImage.ashx?Id=b766d194-f0be-44b2-9c2a-1772c612ac62)
+
+  #### [Năm 2022-2023 (20/10/2023)](/?ArticleId=b766d194-f0be-44b2-9c2a-1772c612ac62)
+
+  ###
+* ![](/Services/GetArticleImage.ashx?Id=2aa5978d-9cd9-4c54-89f3-a2d8729ba911)
+
+  #### [Năm 2021-2022 (20/10/2023)](/?ArticleId=2aa5978d-9cd9-4c54-89f3-a2d8729ba911)
+
+  ###
+* ![](/Services/GetArticleImage.ashx?Id=e2f12c3f-317c-4358-a46c-708efeed392c)
+
+  #### [Năm 2014-2019 (13/09/2019)](/?ArticleId=e2f12c3f-317c-4358-a46c-708efeed392c)
+
+  ###
+
+============================================================
 URL: http://fit.hcmute.edu.vn/Default.aspx?ArticleId=1a71631b-4813-4cce-bffe-cffec35a2382
 ============================================================
 
@@ -2486,631 +2518,56 @@ URL: http://fit.hcmute.edu.vn/?TopicId=655da697-17c3-40a9-80a9-706efec37b33
 «Trước | [1](javascript:__doPostBack('ctl05$ctl01$lbt0','')) | [2](javascript:__doPostBack('ctl05$ctl01$lbt1','')) | [3](javascript:__doPostBack('ctl05$ctl01$lbt2','')) | [4](javascript:__doPostBack('ctl05$ctl01$lbt3','')) | [5](javascript:__doPostBack('ctl05$ctl01$lbt4','')) |  [Sau](javascript:__doPostBack('ctl05$ctl01$lbtNext',''))  [»](javascript:__doPostBack('ctl05$ctl01$lbtLast',''))
 
 ============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=e4addcc7-1169-4c8c-93a2-9538c1b3752f
-============================================================
-
-[Tin Trang Chủ](/?TopicId=655da697-17c3-40a9-80a9-706efec37b33)
-
-[Tuyển sinh Cao học ngành "Khoa học máy tính"](/?ArticleId=e4addcc7-1169-4c8c-93a2-9538c1b3752f)
-
-Tác giả :
-
-THÔNG BÁO TUYỂN SINH CAO HỌC NGÀNH KHOA HỌC MÁY TÍNH  
-  
-
-Thời gian nhận hồ sơ dự thi cao học đợt 1/2017: Hạn chót ngày 06/01/2017.
-
-Thời gian thi: 25-26/02/2017.  
-
-Thí sinh vui lòng download hồ sơ trên website: [sdh.hcmute.edu.vn](http://sdh.hcmute.edu.vn/) tại mục Tuyển sinh SĐH.
-
-Nhà trường sẽ tổ chức ôn thi cho các thí sinh, chi tiết về lịch ôn thi xin liên hệ Phòng Sau đại học, ĐH SPKT TP.HCM. Điện thoại: 08.37225.766
-
-![](/Resources/ImagesPortal/HomePage/tinkhac.png)
-[
-
-============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=f9ef1360-7803-4b86-a0d5-1c7b610a3a9e
-============================================================
-
-[Tin Trang Chủ](/?TopicId=655da697-17c3-40a9-80a9-706efec37b33)
-
-[KẾ HOẠCH TỔ CHỨC CHƯƠNG TRÌNH ĐỊNH HƯỚNG NGHỀ NGHIỆP TƯƠNG LAI CHO TÂN SINH VIÊN KHÓA 2016](/?ArticleId=f9ef1360-7803-4b86-a0d5-1c7b610a3a9e)
-
-Tác giả :
-
-|  |  |
-| --- | --- |
-| Bộ Giáo dục và Đào tạo  Trường Đại học Sư phạm Kỹ thuật Tp. Hồ Chí Minh  Khoa: Công nghệ Thông tin | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  Độc lập – Tự do – Hạnh phúc  Tp. Hồ Chí Minh, ngày 14 tháng 09 năm 2016 |
-
-**KẾ HOẠCH TỔ CHỨC CHƯƠNG TRÌNH ĐỊNH HƯỚNG NGHỀ NGHIỆP TƯƠNG LAI CHO TÂN SINH VIÊN  KHÓA 2016**
-
-**(Khoa CNTT và Khoa Chất Lượng Cao)**
-
- 
-
-Chương trình định hướng nghề nghiệp tương lai cho tân sinh viên khóa 2016 được tổ chức vào thời gian và địa điểm như sau:
-
-+ Thời gian: Từ 7h30 – 11h, Thứ Bảy, ngày 24/09/2016.
-
-+ Địa điểm: Phòng họp II, lầu 6, tòa nhà trung tâm.
-
-Đối tượng tham dự:
-
-**+ Tất cả sinh viên Khóa 2016 ngành CNTT (Khoa CNTT và Khoa CLC)**
-
-+ Sinh viên các khóa khác có quan tâm.
-
-**Sinh viên đăng ký tham dự theo link:**
-
-<https://docs.google.com/forms/d/e/1FAIpQLSe2KPbjdt2kgwkMQGp13RPvgXTucWHOM7YWt8e3_SAkz6zeuw/viewform?c=0&w=1>.
-
-Sinh viên tham dự sẽ được cộng điểm rèn luyện theo quy định.
-
- 
-
-Nội dung chương trình của mỗi buổi định hướng được dự kiến như sau:
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| **Thời gian** | **Tiết mục** | **Nội dung** | **Người thực hiên** |
-| *15 phút* | *( Trước khi bắt đầu buổi định hướng)*  *Video giới thiệu quảng bá doanh nghiệp tham gia chương trình* | | |
-| 10 phút | Khởi động chương trình  Khoa/Trường tri ân Doanh nghiệp | | Người điều phối  (Talent Mind Education)  Trường/Khoa |
-| 50 phút | **Phần 1: Lập kế hoạch cho tương lai**  -Bạn sẽ làm gì vào 4 năm sau?  -Lập kế hoạch học tập – hoạch định nghề nghiệp tương lai.  -Hoạch định cho nghề CNTT: Hãy rèn luyện thực hành và trải nghiệm ngay từ năm đầu tiên. | | Dr. Nguyễn Huy Hoàng  CEO Talent Mind Education     *-Các hoạt động thực hành tương tác xen kẽ* |
-| 100 phút | **Phần 2 – Nghề CNTT và yêu cầu của doanh nghiệp tuyển dụng**  *(Dự kiến sẽ có 4-5 nhóm công việc CNTT được chia sẻ từ chuyên gia của doanh nghiệp tham gia chương trình)* | | Các chuyên gia đến từ doanh nghiệp tham gia chương trình.  Người điều phối (Talent Mind Education) |
-| 45 phút | **Phần 3: Tư vấn từ người trong nghề**  Giao lưu giữa chuyên gia doanh nghiệp và sinh viên – Hỏi / đáp, tư vấn và chia sẻ kinh nghiệm | | -Người điều phối (Talent Mind Education)  -Các chuyên gia, đại diện đến từ các doanh nghiệp |
-| 10 phút | Bốc thăm may mắn  Trúng thưởng quà đến từ BTC và Doanh nghiệp tài trợ  *(Kết hợp hoạt động thăm dò chất lượng đầu vào của sinh viên)* | | |
-| 5 phút | Tổng kết chương trình  Chụp hình chung | | |
-
-                                                                                                BCN Khoa CNTT
-
-                                                                                                ThS. Lê Văn Vinh
-
-![](/Resources/ImagesPortal/HomePage/tinkhac.png)
-[
-
-============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=f07fe0c7-5185-4fbf-a377-00007144e2c0
-============================================================
-
-[Tin Trang Chủ](/?TopicId=655da697-17c3-40a9-80a9-706efec37b33)
-
-[Hội thảo nhà trường, Doanh nghiệp và sinh viên trong chất lượng đào tạo ngành CNTT](/?ArticleId=f07fe0c7-5185-4fbf-a377-00007144e2c0)
-
-Tác giả :
-
-![](/Resources/ImagesPortal/HomePage/tinkhac.png)
-[
-
-============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=7484b765-9b63-4c51-86ac-69452fc457c3
-============================================================
-
-[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
-
-[Ngày hội việc làm năm 2016](/?ArticleId=7484b765-9b63-4c51-86ac-69452fc457c3)
-
-Tác giả :
-
-![](/Resources/Images/SubDomain/fit/20152016/Thumb-01.jpg)  
-  
-[Thông tin doanh nghiệp tham gia ngày 23/05/2016](/Resources/Docs/SubDomain/fit/20152016/tham gia 23_5.pdf)  
-[Thông tin doanh nghiệp tham gia ngày 24/05/2015](/Resources/Docs/SubDomain/fit/20152016/tham gia 24_5.pdf)
-
-![](/Resources/ImagesPortal/HomePage/tinkhac.png)
-[
-
-============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=abcbc614-42fb-4c38-96a4-6d63d534f5e1
+URL: http://fit.hcmute.edu.vn/?ArticleId=1786af55-6ae1-4b7f-a3ec-53f23706ade2
 ============================================================
 
 [Các Hoạt động nổi bật](/?TopicId=9525ab2d-5a64-41ae-b53d-d4b9631adb36)
 
-[KHÉP LẠI CUỘC THI HỌC THUẬT CẤP TRƯỜNG MASTERING IT 2016!](/?ArticleId=abcbc614-42fb-4c38-96a4-6d63d534f5e1)
+[CUỘC THI HỌC THUẬT MASTERING IT 2017](/?ArticleId=1786af55-6ae1-4b7f-a3ec-53f23706ade2)
 
 Tác giả :
 
-Trải qua vòng loại với gần 1000 sinh viên tham gia, MIT 2016 đã chứng tỏ vị thế của một cuộc thi học thuật lớn. Sức nóng lan tỏa từ những vòng đâu tiên để chọn ra mỗi Khối thi 5 đội vào vòng Chung kết. Kết quả tham gia vòng Chung kết gồm các đội: **VTC1, CNTT CL1, 327, KunK, Big Hero** (Khối Không Chuyển) và **Apollo, Again, Not Found, Big Diggers, TIP.**  
-Buổi thi chung kết bao gồm các nội dung: **Khởi động** (Dành cho 2 khối không chuyên và chuyên), **Ngọn tháp trí tuệ, Tốc độ** (Khối không chuyên) và **Truyền tin, Lập trình tiếp sức, Lắp ghép chương trình** (Khối chuyên)  
-Cuộc thi đã nhận được sự đồng hành của hai doanh nghiệp trong lĩnh vực CNTT là Công ty Fujinet System và Công ty Harvey Nash Việt Nam, và Trung tâm tin học, Trường ĐH Sư phạm Kỹ thuật Tp. Hồ Chí Minh.  
-Cùng đến tham dự Vòng Chung Kết của cuộc thi là sự có mặt của gần 300 bạn sinh viên và các đại diện Khách mời.  
-Phát biểu tại cuộc thi, ThS. Lê Văn Vinh - Phó Trưởng Khoa CNTT cho biết *"Khoa CNTT thành lập đến nay là 15 năm, thì cuộc thi Mastering IT đã được tổ chức lần thứ 11. Điều này chứng tỏ rằng, Khoa CNTT xem đây là một trong những hoạt động trọng tâm của Khoa. Cuộc thi không chỉ là nơi giao lưu giữa các sinh viên Trường ĐH Sư phạm Kỹ thuật Tp. Hồ Chí Minh, mà còn là môi trường nhằm giúp sinh viên có cơ hội rèn luyện cả về kiến thức chuyên môn và các kỹ năng mềm. Điều đó góp phần thúc đẩy sự thành công trong công tác đào tạo của Khoa cũng như của nhà Trường".*  
-PGS. TS. Đỗ Thành Trung - Phó Trưởng Phòng Khoa học và Công nghệ cũng nhận xét:*"Mặc dù được tổ chức vào ngày Chủ Nhật, cuộc thi vẫn thu hút được một số lượng lớn sinh viên của Trường tham dự và cỗ vũ hào hứng đến những phút cuối. Điều đó chứng tỏ cuộc thi có nhiều nội dung hấp dẫn và hữu ích"*.  
+**THÔNG BÁO**
 
-![](/Resources/Images/SubDomain/fit/MIT%202016/MIT2016.jpg)
+**CUỘC THI HỌC THUẬT MASTERING IT LẦN THỨ 12, NĂM 2017  
+![](/Resources/Images/SubDomain/fit/20162017/mit_banner1.png)**
 
-Vòng chung kết đã diễn ra một cách gây cấn, hấp dẫn ngay từ phần chơi đầu tiên với sự bám sát từng điểm số của các đội. Và cuối cùng, với chiến thuật hợp lý hơn, đội VTC1 và Again đã trở thành nhà Tân vô địch của cuộc thi năm nay dành cho mỗi Khối.  
-Dù đã khép lại nhưng cuộc thi năm nay đã để lại rất nhiều ấn tượng cho các bạn thí sinh tham gia, Ban tổ chức và các nhà Tài trợ.   
-Hẹn gặp lại các bạn tại MASTERING IT 2017.  
+Cuộc thi**MASTERING IT (MIT)** đã rất quen thuộc với các bạn sinh viên trường Đại học Sư phạm Kỹ thuật  TP Hồ Chí Minh, đặc biệt là các bạn sinh viên ngành Công Nghệ Thông Tin. Cuộc thi như một ngọn đuốc thắp sáng nên tri thức của các bạn sinh viên có đam mê và am hiểu về tin học.  Năm nay, Khoa CNTT phối hợp cùng Phòng Khoa học và Công nghệ tổ chức cuộc thi MIT 2017, với sự đồng hành của **Công ty FUJINET SYSTEM JSC**.
 
-![](/Resources/Images/SubDomain/fit/MIT%202016/BIA_thumb.PNG)
+Vào ngày 0**9/04/2017**, tại trường Đại học Sư phạm Kỹ thuật sẽ diễn ra **vòng sơ loại**của MIT để chọn ra 5 đội xuất sắc nhất vào **vòng chung kết (26/04/2017)**.  
+Cuộc thi được chia làm 2 khối, đó là khối chuyên và khối không chuyên.
 
-![](/Resources/ImagesPortal/HomePage/tinkhac.png)
-[
+**+ Khối chuyên:**Thi về tất cả các kiến thức tổng quát cũng như chuyên sâu về chuyên nghành công nghệ thông tin, các kiến thức về mạng, lập trình, các kiến thức xã hội có liên quan đến lĩnh vực công nghệ thông tin.
 
-============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=01a50551-b3ac-48bd-a597-6b3068111857
-============================================================
+Đối tượng tham gia:
 
-[Tin Trang Chủ](/?TopicId=655da697-17c3-40a9-80a9-706efec37b33)
+***Tất cả các sinh viên của trường ĐH Sư phạm Kỹ thuật Tp. Hồ Chí Minh đều được phép đăng ký tham gia khối chuyên.***
 
-[Buổi báo cáo Mock Project tại FSOFT](/?ArticleId=01a50551-b3ac-48bd-a597-6b3068111857)
++ **Khối không chuyên**: Thi các kiến thức căn bản về máy tính, tin học văn phòng (MS Word, Excel ), internet, kiến thức tin học phổ thông.
 
-Tác giả :
+Đối tượng tham gia: Khối không chuyên chỉ dành cho các đối tượng sau (nếu không tham gia khối chuyên).
 
-**25 sinh viên trường ĐH Sư Phạm Kỹ Thuật thành phố Hồ Chí Minh tham gia báo cáo Mock Project tại Trung Tâm Đào Tạo FPT Software Hồ Chí Minh ngày 06/01/2016**
+(1)  Các bạn sinh viên năm 1 (tính theo năm nhập học) ngành CNTT (Khoa CNTT và khoa CLC);
 
-**![IMG_2713](https://mail.google.com/mail/u/1/?ui=2&ik=5737561eee&view=fimg&th=1521b459894d6799&attid=0.0.2&disp=emb&realattid=69db912c88c692d7_0.0.2&attbid=ANGjdJ9bhIebr_I66NNaPES_sW2F1sJfwTmO3YquKdWfzJ6BOFC_3z3s5h0d1Y4h1IsiXAXNMqTNKxu7DapYjacC2WYqxMjAA0ijtBqlrd0IKtOjsWjy3uYV9UHVN3k&sz=w1250-h938&ats=1452156773318&rm=1521b459894d6799&zw&atsh=1)**
+(2)  Các bạn sinh viên năm 1, 2 (tính theo năm nhập học) ngành Kỹ thuật máy tính (Khoa Điện-Điện tử và Khoa CLC).
 
-Mock Project là sự kiện tiếp nối chương trình Global Software Talent (GST) của FPT Software HCM (FSOFT HCM) – chương trình liên kết đào tạo với các trường Đại học trên cả nước nhằm tìm kiếm các ứng viên tiềm năng. Đây cũng là khóa GST thứ 3 mà FSOFT HCM phối hợp cùng trường đại học Sư Phạm Kỹ Thuật thành phố Hồ Chí Minh (HCMUTE) triển khai. Hoạt động này nhằm mục tiêu đánh giá năng lực lập trình của sinh viên thông qua việc áp dụng các kiến thức về ngôn ngữ lập trình Java vào một dự án thực tế.
+(3)  Tất cả các bạn sinh viên Khoa khác trong trường (không giới hạn theo năm nhập học).
 
- 
+Hìnhthứcđăngký: 
 
-Buổi báo cáo diễn ra thành công với sự tham dự của  Thầy Đặng Thanh Dũng – trưởng khoa CNTT, HCMUTE; các chuyên viên đào tạo của trung tâm đào tạo FSOFT HCM; và anh TuyNV (đội dự án FSU15.BU11) với vai trò trợ giảng, tham gia đồng đánh giá sinh viên. Ngay trong buổi báo cáo, 05 sinh viên đủ điều kiện đã được bộ phận tuyển dụng phỏng vấn sơ bộ nhằm tìm ra ứng viên xuất sắc về làm việc tại các đội dự án của FSOFT trong thời gian sắp tới.  
-  
-![](/Resources/Images/SubDomain/fit/20152016/IMG_2711.JPG)
+-       Đăng ký theo link: [https://goo.gl/3stnaH](https://l.facebook.com/l.php?u=https%3A%2F%2Fgoo.gl%2F3stnaH&h=ATO_8cQW7HcBd3bynR5VcPNb5ePxiP9LwlY_9N7gOmjKsKNdrBO5mXYbECmbGvXuG8ktCL_p7zHtyuiNxjf6UnY38hkBEmTUwz-bDW1KEpwscG94QUqFh5tYElozA1W62SXipw&enc=AZNqgYeAjCl0jVWIIogbxqAz1p9_5wIA9YIafbyTeWPSR5_MmJ28p6utW3HeSDlxwLEAB-GPN5alBDgjeEDves2OL0RR2Q6JeIPxFOq0YZB3wTvOuQkb6F68bi9m6HXxCbJqHA5jGS_aa2iEFIigrMONbRJv3umIIG196svYqEUbH7wtJosxNglwD3v7gJAv3JTkFXMtvbmQ6WOq0q-9khAf&s=1)
 
-![](/Resources/ImagesPortal/HomePage/tinkhac.png)
-[
+-       Đăng ký tại bàn trực trước siêu thị sinh viên trường Đại học Sư phạm Kỹ Thuật TPHCM (Từ ngày 16/03 tới ngày 05/04/2017)
 
-============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=958f0560-739c-4768-b503-5ab23c1c0a65
-============================================================
+-       Hotline : 01646605490 - 01646356275
 
-[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
+Sinh viên có thể xem chi tiết cuộc thi tại :  https://www.facebook.com/MasteringITUTE/?fref=ts
 
-[Campus Link 2016 và chương trình 10.000 kỹ sư cầu nối](/?ArticleId=958f0560-739c-4768-b503-5ab23c1c0a65)
+                                                                                                BTC Cuộc Thi MIT 2017
 
-Tác giả :
-
-Đến tham dự buổi hội thảo có sự góp mặt của các cán bộ quản lý CTC.HCM, lãnh đạo và hơn 100 sinh viên khoa công nghệ thông tin và khoa chất lượng cao HCMUTE.
-
-[![11-12-2015 9-53-17 AM](https://mail.google.com/mail/u/0/?ui=2&ik=5737561eee&view=fimg&th=15104dd8acdeaffd&attid=0.0.1&disp=emb&realattid=3eaa71534ddcb88e_0.0.1&attbid=ANGjdJ-v1ovjcDMDhLlKVrLspBfV9j4bdXIudjNnufX3sNBb_gk8Lm8XSUdYdP0CAaU84BEJL_LX4ODoBWu9W8WSH4Z14SyZ4Gcd35YFI_WLsKlrj7CFaVPRHatk2sI&sz=w1780-h420&ats=1447739085599&rm=15104dd8acdeaffd&zw&atsh=1)](https://cucumber.fsoft.com.vn/wp-content/uploads/sites/14/2015/11/11-12-2015-9-53-17-AM.png)
-
-Chương trình được tổ chức với mục tiêu đưa sinh viên tiếp cận gần hơn với các cơ hội thực tập, việc làm tại FSOFT sau khi tốt nghiệp, hoặc thậm chí ngay từ khi sinh viên còn đang ngồi trên ghế nhà trường. Nhờ đó, các bạn có định hướng tốt hơn cho con đường sự nghiệp tương lai. Theo đó mà trau dồi các kiến thức và kỹ năng cần thiết cho bản thân, đáp ứng tốt các yêu cầu từ doanh nghiệp. “Đây thực sự là một chương trình bổ ích và cần thiết mà khoa CNTT phối hợp thực hiện cùng FSOFT HCM, với hi vọng các bạn sinh viên sẽ nắm bắt được cơ hội và đạt được những thành công trong tương lai” – Thầy Đặng Thanh Dũng, trưởng khoa CNTT chia sẻ.  
-![](/Resources/Images/SubDomain/fit/20152016/h3.png)
-
-Đặc biệt, nhằm tăng cường sự hợp tác giữa khoa CNTT và FSOFT, vào cuối chương trình, 2 bên đã cùng ký bản ghi nhớ hợp tác (MOU). Đây là nền tảng cho sự hợp tác bền vững giữa đôi bên không những trên lĩnh vực hợp tác đào tạo mà còn trên nhiều lĩnh vực khác như cơ hội thực tập, việc làm, cộng tác.  
-  
-![](/Resources/Images/SubDomain/fit/20152016/h1.png)  
-![](/Resources/Images/SubDomain/fit/20152016/h2.png)
-
-![](/Resources/ImagesPortal/HomePage/tinkhac.png)
-[
-
-============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=14e4568b-7ce9-4560-aeb5-0412ee75fa21
-============================================================
-
-[Các thông báo mới](/?TopicId=05556b7b-ed01-4261-9390-4583add544ea)
-
-[Kế hoạch đón Tân Sinh viên khoá 2015](/?ArticleId=14e4568b-7ce9-4560-aeb5-0412ee75fa21)
-
-Tác giả :
-
-![](/Resources/ImagesPortal/HomePage/tinkhac.png)
-[
-
-============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=44d15ab5-ab41-4bb9-aeed-90c3d5370392
-============================================================
-
-[Tin Trang Chủ](/?TopicId=655da697-17c3-40a9-80a9-706efec37b33)
-
-[Cuộc thi "Innovative App Challenge 2015"](/?ArticleId=44d15ab5-ab41-4bb9-aeed-90c3d5370392)
-
-Tác giả :
-
-![](/Resources/Images/SubDomain/fit/20152016/Innovative%20App%20Challenge%202015%20poster.jpg)  
-
-**Thể lệ cuộc thi:**
-
-**Tham gia:**
-
-* Sản phẩm dự thi có thể dựa trên các nền tảng như Windows/Windows Phone, Android hoặc iOS, thỏa các điều kiện tiêu chuẩn của một ứng dụng thuộc các chuyên mục như: giáo dục, giải trí, tin tức, thư giãn, ebook, công cụ, âm nhạc, hình ảnh, đa phương tiện, mạng xã hội,… Các ứng dụng phải phù hợp với thuần phong mỹ tục, không chứa các nội dung kích động, bạo lực hoặc trái pháp luật của nước Việt Nam.
-* Những ứng dụng dự thi chưa đăng ký ở những cuộc thi khác, chưa từng công bố, ứng dụng không được sao chép các ứng dụng có sẵn trên các cửa hàng ứng dụng. Trong thời gian diễn ra cuộc thi, các tác giả không được sử dụng các sản phẩm đang dự thi để tham dự bất kỳ cuộc thi khác.
-* Tác giả ứng dụng dự thi phải chịu trách nhiệm về bản quyền tác giả và các quyền liên quan theo quy định của pháp luật. Ban tổ chức không chịu trách nhiệm về bất cứ sự tranh chấp nào liên quan đến bản quyền của ứng dụng dự thi. Ban tổ chức sẽ chỉ nhận thông tin đăng ký tham gia đến hết ngày 11/10/2015 qua email: smiccontest@shtp-training.edu.vn.
-
-**Qui trình nộp bài:**
-
-**Hạn chót ngày 11/10/2015**: Gửi source code và app package (XAP | APP | APK | APPX… ) về địa chỉ smiccontest@shtp-training.edu.vn với tiêu đề [INNOVATIVE APP CHALLENGE 2015] <Tên App> để đăng ký.
-
-Gửi thông tin liên hệ và screenshots của app về email trên.
-
-**Vòng Chung kết và trao giải của cuộc thi sẽ diễn ra vào ngày 16/10/2015 tại Trung tâm Đào tạo Khu Công nghệ cao TP.HCM (Lô E1, Khu Công nghệ cao, Xa lộ Hà Nội, P. Hiệp Phú, Quận 9, TP. HCM).**
-
-**Tiêu chuẩn đánh giá và cơ cấu giải thưởng:**
-
-Ứng dụng tham dự sẽ được test source code và đánh giá dựa trên các tiêu chí (thang điểm 1 - 10):
-
- 
-
-* Sáng tạo & độc đáo.
-* Giao diện.
-* Ổn định.
-
-**Cơ cấu giải thưởng:**
-
-* 1 Giải Nhất: 4.000.000 VNĐ
-* 1 Giải Nhì: 3.000.000 VNĐ
-* 1 Giải Ba: 2.000.000 VNĐ
-* 5 Giải Khuyến khích: mỗi giải 500.000 VNĐ
-
-**Phạm vi áp dụng chương trình:**
-
-Áp dụng cho tất cả sinh viên, doanh nghiệp và cá nhân đam mê CNTT và lập trình ứng dụng trên phạm vi toàn quốc.
-
- 
-
-Để biết thêm thông tin, vui lòng truy cập [www.shtp-training.edu.vn](http://www.shtp-training.edu.vn/)
-
-Hoặc liên hệ HOTLINE: 0917 141 505 | Email: anhlht@shtp-training.edu.vn
-
-![](/Resources/ImagesPortal/HomePage/tinkhac.png)
-[
-
-============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=e1ba9c74-1ba7-43bb-ae1d-75266fac3a93
-============================================================
-
-[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
-
-[Java RECRUITMENT DAY – KMS LAUNCH Program](/?ArticleId=e1ba9c74-1ba7-43bb-ae1d-75266fac3a93)
-
-Tác giả :
-
-**KMS Mang Đến Cho Bạn Những Gì?**
-
-Tùy thuộc vào kết quả phỏng vấn, bạn sẽ nhận được một hoặc nhiều những quyền lợi sau đây:
-
-* Một công việc chính thức tại KMS:
-
--        Môi trường làm việc quốc tế, năng động, sáng tạo
-
--        Cơ hội làm việc với các hệ thống phần mềm lớn và phức tạp đang được sử dụng bởi các doanh nghiệp tại Mỹ.
-
--        Cơ hội làm việc với những công nghệ và kiến trúc phần mềm mới nhất
-
--        Mức lương cạnh tranh và phúc lợi hấp dẫn so với mặt bằng chung của thị trường
-
-* Cam kết tuyển dụng ngay sau khi ra trường đối với sinh viên năm 3 và năm 4.
-* Chương trình huấn luyện chuyên biệt nhằm phát hiện những điểm mạnh của riêng bạn và cung cấp điều kiện để bạn phát triển chúng một cách tối đa giúp rút ngắn khoảng cách con đường trở thành một lập trình viên chuyên nghiệp mà bạn đang theo đuổi.
-
-**Đối Tượng Nên Tham Gia Là Ai?**
-
-- Sinh viên năm 3, năm 4 hoặc mới tốt nghiệp (<1 năm kinh nghiệm) chuyên ngành IT
-
-- Trình độ tiếng Anh: Intermediate
-
--GPA:  6.8 (hoặc cao hơn)
-
-- Đam mê công nghệ Java
-
-**Nội Dung Chương Trình  LAUNCH**
-
-**Giai đoạn 1:** *3 tuần*
-
--        *Văn hóa công ty KMS và nguyên tắc ứng xử trong môi trường làm việc chuyên nghiệp*
-
--        *Huấn luyện kỹ năng mềm*
-
--        *Quy trình phát triển và những công cụ cần thiết*
-
--        *Làm cách nào để viết code đạt chuẩn ngành phần mềm*
-
-**Giai đoạn 2:** *5 tuần – Bắt buộc vượt qua bài kiểm tra Giai đoạn 1*
-
--        *Tham gia vào một Scrum Team và làm việc trong một dự án phát triển phần mềm*
-
--        *Ứng dụng tất cả những kiến thức được học trong giai đoạn 1 vào thực tiễn*
-
-*Kết thúc giai đoạn 2, nếu học viên thỏa mãn những yêu cầu đề ra, họ sẽ:*
-
--        *Vượt qua giai đoạn thử việc tại KMS nếu bạn tham gia chương trình với tư cách nhân viên thử việc.*
-
--        *Được nhận ngay vào làm tại KMS mà không cần trải qua giai đoạn thử việc nếu bạn tham gia chương trình với tư cách thực tập sinh.*
-
--        *Được cam kết tuyển dụng ngay sau khi tốt nghiệp mà không cần trải qua giai đoạn thử việc nếu bạn tham gia chương trình khi  chưa hoàn thành xong chương trình đại học*
-
- 
-
-**Thông Tin Đăng Ký**
-
-**Website đăng ký:** <https://ticketbox.vn/event/java-recruitment-day-31122>
-
-**Hạn cuối đăng ký:** 13/07/2015
-
-Nếu bạn có thắc mắc hãy gửi câu hỏi về địa chỉ [career@kms-technology.com](mailto:career@kms-technology.com), chúng tôi sẽ sớm liên lạc và hướng dẫn bạn để hoàn tất các bước tham gia ngày hội tuyển dụng này. Bạn cũng có thể gọi cho chúng tôi với **h****otline**: 0938 118 997
-
-![](/Resources/ImagesPortal/HomePage/tinkhac.png)
-[
-
-============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=e50a328d-41c9-4788-818e-08ed513c7759
-============================================================
-
-[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
-
-[THÔNG BÁO TUYỂN SINH VIÊN THỰC TẬP – CÔNG TY GAMELOFT](/?ArticleId=e50a328d-41c9-4788-818e-08ed513c7759)
-
-Tác giả :
-
-**![](/Resources/Images/SubDomain/fit/TuyenDung/Gameloft%202015.jpg)**
-
-**Thực tập sinh tài năng 2015 (1 khóa)**
-
-**Thời gian:           từ tháng 7 đến 8/2015;**
-
-**Số lượng:            10 người;**
-
-**Địa điểm:            Công ty Gameloft Vietnam, Etown2, 364 Cộng Hòa, quận Tân Bình.**
-
-**Thời hạn đăng kí là** **15/6/2015****. Nội dung chương trình thầy có thể xem cụ thể hơn trong file đính kèm.**
-
-**C++ Expert Training Course (mở hàng tháng)**
-
-**Thời gian:           Tháng 6, 7/2015;**
-
-**Số lượng:            10 người/ khóa;**
-
-**Địa điểm:            Công ty Gameloft Vietnam, Etown2, 364 Cộng Hòa, quận Tân Bình.**
-
-   
-[Chuong trinh Thuc tap sinh tai nang 2015-Gameloft.docx](/Resources/Docs/SubDomain/fit/tuyendung/Chuong trinh Thuc tap sinh tai nang 2015-Gameloft.docx)
-
-![](/Resources/ImagesPortal/HomePage/tinkhac.png)
-[
-
-============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=66df0d42-ed28-413b-9659-56c077ae9fe1
-============================================================
-
-[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
-
-[TMA Industry Internship tuyển Thực tập sinh tháng 02/2026](/?ArticleId=66df0d42-ed28-413b-9659-56c077ae9fe1)
-
-Tác giả :
-
-![](/Resources/Images/SubDomain/fit/2026/Tuyen%20dung%20Thuc%20tap%20sinh%20khoa%2051.png)
-
-![](/Resources/ImagesPortal/HomePage/tinkhac.png)
-[
-
-============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=0125ff03-52e9-4fa9-979d-03a30914b449
-============================================================
-
-[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
-
-[DXC VietNam tuyển dụng DECP SERVICENOW JAVASCRIPT - JAN 2026](/?ArticleId=0125ff03-52e9-4fa9-979d-03a30914b449)
-
-Tác giả :
-
-[DXC VIETNAM \_CHƯƠNG TRÌNH DECP SERVICEN OW JAVASCRIPT \_University \_Jan 2026.pdf](/Resources/Docs/SubDomain/fit/2026/DXC VIETNAM _CHƯƠNG TRÌNH DECP SERVICEN OW JAVASCRIPT _University _Jan 2026.pdf)
-
-![](/Resources/ImagesPortal/HomePage/tinkhac.png)
-[
-
-============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=f53f4bba-95f6-4ec2-8ed0-3e445ba78d91
-============================================================
-
-[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
-
-[AA Corporation tuyển thực tập sinh](/?ArticleId=f53f4bba-95f6-4ec2-8ed0-3e445ba78d91)
-
-Tác giả :
-
-![](/Resources/Images/SubDomain/fit/2026/AACorp-tuyendung.jpg)
-
-![](/Resources/ImagesPortal/HomePage/tinkhac.png)
-[
-
-============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=eb786df1-c0aa-4c72-9325-626912e5798e
-============================================================
-
-[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
-
-[FUJINET tuyển dụng JAVA/.NET Fresher Developers](/?ArticleId=eb786df1-c0aa-4c72-9325-626912e5798e)
-
-Tác giả :
-
-![](/Resources/Images/SubDomain/fit/2025/Poster_Tuyendung_202601_JAVA_NET.png)  
-[FUJINET\_tuyen dung thang 202601\_JAVA\_NET.pdf](/Resources/Docs/SubDomain/fit/2025/FUJINET_tuyen dung thang 202601_JAVA_NET.pdf)
-
-![](/Resources/ImagesPortal/HomePage/tinkhac.png)
-[
-
-============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=0d3699f2-f6dd-4e16-91d7-b8dd90f2d0aa
-============================================================
-
-[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
-
-[TMA Tech Group tuyển dụng việc làm dành cho SV mới tốt nghiệp](/?ArticleId=0d3699f2-f6dd-4e16-91d7-b8dd90f2d0aa)
-
-Tác giả :
-
-![](/Resources/Images/SubDomain/fit/2025/TMA%20Talent%20Fresher%20Program.png)
-
-![](/Resources/ImagesPortal/HomePage/tinkhac.png)
-[
-
-============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=56236604-0f9a-4981-9dd6-c48f12ba5de7
-============================================================
-
-[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
-
-[Công ty TNHH Du lịch Lửa Việt - Tuyển dụng nhân viên IT](/?ArticleId=56236604-0f9a-4981-9dd6-c48f12ba5de7)
-
-Tác giả :
-
-[luavietours\_Tuyendung-IT.pdf](/Resources/Docs/SubDomain/fit/2025/luavietours_Tuyendung-IT.pdf)
-
-![](/Resources/ImagesPortal/HomePage/tinkhac.png)
-[
-
-============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=4a7eb039-767b-4074-a85f-4eb1463c66f0
-============================================================
-
-[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
-
-[HitachiDS tuyển dụng Thực tập sinh AI Engineering 12/2025](/?ArticleId=4a7eb039-767b-4074-a85f-4eb1463c66f0)
-
-Tác giả :
-
-![](/Resources/Images/SubDomain/fit/2025/Hiring%20AI%20Engineering%20Interns.png)  
-[Internship\_AI Engineering Intern\_Dec 2025.pdf](/Resources/Docs/SubDomain/fit/2025/Internship_AI Engineering Intern_Dec 2025.pdf)
-
-![](/Resources/ImagesPortal/HomePage/tinkhac.png)
-[
-
-============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=7ac85f0a-0c44-4e57-a86d-7c6c43f3c488
-============================================================
-
-[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
-
-[FPT SOFTWARE HCM TUYỂN DỤNG FRESHER C++ WINAPP](/?ArticleId=7ac85f0a-0c44-4e57-a86d-7c6c43f3c488)
-
-Tác giả :
-
-FPT SOFTWARE HCM TUYỂN DỤNG FRESHER C++ WINAPP – CƠ HỘI VÀNG CHO SINH VIÊN CNTT 🔥  
-Bạn là sinh viên CNTT đã/sắp tốt nghiệp và muốn bắt đầu sự nghiệp với công nghệ Healthcare đỉnh cao? Đây chính là cơ hội dành cho bạn!  
-QUYỀN LỢI NỔI BẬT  
-✅ Đào tạo chuyên sâu 3-6 tháng về C++ WinApp  
-✅ Trợ cấp đào tạo hấp dẫn  
-✅ Cơ hội trở thành nhân viên chính thức tại FPT Software sau đào tạo với hàng loạt quyền lợi:  
-• Chế độ BHXH, BHYT, BHTN đầy đủ  
-• Bảo hiểm FPT Care, chế độ nghỉ mát đặc biệt  
-• Miễn phí phòng gym, sân bóng đá, tennis, xe đưa đón,..  
-✅ Được làm việc trong dự án thực tế quy mô lớn với khách hàng quốc tế  
-✅ Môi trường hiện đại, văn hóa năng động đậm chất FPT  
-YÊU CẦU  
-• Sinh viên đã/sắp tốt nghiệp ngành CNTT, Kỹ thuật máy tính  
-• Kiến thức lập trình căn bản (OOP, cấu trúc dữ liệu, giải thuật)  
-• Yêu thích C/C++, WinApp, .NET, SQL  
-• Tiếng Anh TOEIC ≥ 650 hoặc JLPT N3  
-• Có thể làm việc full-time (T2-T6, 8h-17h)  
-👉 Ứng tuyển ngay tại: <https://forms.gle/vC7LkvsgFn6R1wEB6>  
-![](/Resources/Images/SubDomain/fit/2025/FPT_FRESHER%20WINAPP.jpg)
-
-![](/Resources/ImagesPortal/HomePage/tinkhac.png)
-[
-
-============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=3a44af80-f7d1-4e08-b500-2763df4ce865
-============================================================
-
-[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
-
-[DXC tuyển dụng DECP\_SOFTWARE ENGINEER JAPANESE COMMUNICATION](/?ArticleId=3a44af80-f7d1-4e08-b500-2763df4ce865)
-
-Tác giả :
-
-![](/Resources/Images/SubDomain/fit/2025/Japanese-SpeakingDECP%20Program%20-%20Dec%202025.jpg)  
-[DXC VIETNAM \_DECP DEVELOPER JAPANESE -University \_Dec 2025.pdf](/Resources/Docs/SubDomain/fit/2025/DXC VIETNAM _DECP DEVELOPER JAPANESE -University _Dec 2025.pdf)
-
-![](/Resources/ImagesPortal/HomePage/tinkhac.png)
-[
-
-============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=b85d80d8-b1f1-4c59-8959-7d666ea6701d
-============================================================
-
-[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
-
-[FUJINET tuyển dụng tháng 12/2025](/?ArticleId=b85d80d8-b1f1-4c59-8959-7d666ea6701d)
-
-Tác giả :
-
-![](/Resources/Images/SubDomain/fit/2025/FUJINET_tuyen%20dung%20thang%20202512_JAVA_NET-POSTER.png)  
-[FUJINET\_tuyen dung thang 202512\_JAVA\_NET.pdf](/Resources/Docs/SubDomain/fit/2025/FUJINET_tuyen dung thang 202512_JAVA_NET.pdf)
-
-![](/Resources/ImagesPortal/HomePage/tinkhac.png)
-[
-
-============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=48f49215-2801-47c7-ab5d-0049eca58191
-============================================================
-
-[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
-
-[FPT Software HCM TUYỂN DỤNG FRESHER JAVA DEVELOPER](/?ArticleId=48f49215-2801-47c7-ab5d-0049eca58191)
-
-Tác giả :
-
-![](/Resources/Images/SubDomain/fit/2025/FPT_FRESHER-JAVA.jpg)  
-FPT Software HCM đang tìm kiếm những ứng viên tiềm năng cho vị trí Fresher Java để tham gia vào đội ngũ nhân sự toàn cầu của chúng tôi.  
-Bạn sẽ được tham gia chương trình đào tạo chuyên sâu trong 3-6 tháng và có cơ hội làm việc chính thức sau khi hoàn thành khóa đào tạo.  
-YÊU CẦU ỨNG VIÊN  
-✅ Kiến thức lập trình cơ bản: Nắm vững các khái niệm cơ bản như biến, kiểu dữ liệu, điều kiện, vòng lặp, hàm… sẽ là nền tảng tốt để học và làm việc với Java.  
-✅ Kỹ năng sử dụng máy tính: Thành thạo máy tính, hệ điều hành và các ứng dụng phần mềm cơ bản để phục vụ cho việc lập trình.  
-✅ Tư duy logic & giải quyết vấn đề: Lập trình Java đòi hỏi tư duy logic, khả năng phân tích và giải quyết vấn đề hiệu quả.  
-✅ Khả năng toán học & phân tích: Hiểu biết cơ bản về toán học, thuật toán và xử lý dữ liệu sẽ giúp bạn làm việc tốt hơn với Java.  
-✅ Tiếng Anh giao tiếp tốt (TOEIC 700+ / IELTS 6.0+) và GPA từ 3.2 trở lên  
-QUYỀN LỢI  
-- Cơ hội việc làm toàn cầu với các văn phòng tại Mỹ, Nhật Bản, Hàn Quốc, Úc… và nhiều thị trường đang phát triển.  
-- Được đào tạo và cơ hội tham gia các dự án quốc tế, mở rộng sự nghiệp cùng FPT   
-- Học tập không giới hạn với hệ sinh thái Learning Galaxy và văn hóa học suốt đời.  
-- Thu nhập cạnh tranh, phúc lợi hấp dẫn và lộ trình thăng tiến rõ ràng.  
-- Trải nghiệm môi trường đa văn hóa, sáng tạo và đậm chất FPT  
-📌 Ứng tuyển ngay hôm nay tại: <https://forms.gle/vC7LkvsgFn6R1wEB6>
-
-![](/Resources/ImagesPortal/HomePage/tinkhac.png)
-[
-
-============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=b989761b-76d8-470b-b0f5-56fe92764001
-============================================================
-
-[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
-
-[FUJINET tuyển dụng tháng 10/2025](/?ArticleId=b989761b-76d8-470b-b0f5-56fe92764001)
-
-Tác giả :
-
-![](/Resources/Images/SubDomain/fit/2025/FUJINET_tuyen%20dung%20thang%20202510_poster.png)  
-[FUJINET\_tuyen dung thang 202510\_JAVA\_NET.pdf](/Resources/Docs/SubDomain/fit/2025/FUJINET_tuyen dung thang 202510_JAVA_NET.pdf)
-
-![](/Resources/ImagesPortal/HomePage/tinkhac.png)
-[
-
-============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=324b127f-a8a1-484e-9aab-490760a38622
-============================================================
-
-[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
-
-[TMA Industry Internship tuyển Thực tập sinh tháng 10/2025](/?ArticleId=324b127f-a8a1-484e-9aab-490760a38622)
-
-Tác giả :
-
-![](/Resources/Images/SubDomain/fit/2025/Tuyen%20dung%20Thuc%20tap%20sinh%20khoa%2050.jpg)  
-
-Sinh viên quan tâm vui lòng gửi hồ sơ bản mềm về địa chỉ email: [**intern@tma.com.vn**](mailto:intern@tma.com.vn) trước ngày **15/12/2025**. Hồ sơ bao gồm:
-
-* - CV tiếng Anh
-* - Giấy giới thiệu và bảng điểm mới nhất có xác nhận từ Nhà trường
-* - Chứng chỉ TOEIC/IELTS (nếu có)
-
-![](/Resources/ImagesPortal/HomePage/tinkhac.png)
-[
-
-============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=40f4b891-fd98-4ae6-806b-ae8819afaed9
-============================================================
-
-[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
-
-[Trường Đại học Y Dược Buôn Ma Thuột (BMU) thông báo tuyển dụng](/?ArticleId=40f4b891-fd98-4ae6-806b-ae8819afaed9)
-
-Tác giả :
-
-[357 TB tuyển dụng nhân sự 25-26.pdf](/Resources/Docs/SubDomain/fit/2025/357 TB tuyển dụng nhân sự 25-26.pdf)
+Hãy cùng chào đón và tham gia vào MIT nào các bạn ơi !!!  
+Facebook: [https://www.facebook.com/groups/masteringit](https://www.facebook.com/groups/masteringit )  
+Mastering IT- Nơi Đam Mê Được Tiếp Lửa.
 
 ![](/Resources/ImagesPortal/HomePage/tinkhac.png)
 [
@@ -3511,100 +2968,1117 @@ Theo công bố từ BTC cuộc thi, đội tuyển Last Dance đã xuất sắc
 [
 
 ============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=8e2fc7da-4e4f-4474-8d58-a0cd5ae92f49
+URL: http://fit.hcmute.edu.vn/?ArticleId=abcbc614-42fb-4c38-96a4-6d63d534f5e1
 ============================================================
 
 [Các Hoạt động nổi bật](/?TopicId=9525ab2d-5a64-41ae-b53d-d4b9631adb36)
 
-[VÒNG SƠ KHẢO CUỘC THI SINH VIÊN AN NINH MẠNG 2025](/?ArticleId=8e2fc7da-4e4f-4474-8d58-a0cd5ae92f49)
+[KHÉP LẠI CUỘC THI HỌC THUẬT CẤP TRƯỜNG MASTERING IT 2016!](/?ArticleId=abcbc614-42fb-4c38-96a4-6d63d534f5e1)
 
 Tác giả :
 
-🔔 Đã đến giờ làm bài, chúc các thành viên HCMUTE tham dự cuộc thi sinh viên an ninh mạng 2025 gặt hái được nhiều thành công🔥  
-📌 Cuộc thi là sự kiện thường niên uy tín do Hiệp hội An ninh quốc gia (NCA) chủ trì, với mục tiêu nâng cao nhận thức, rèn luyện kỹ năng chuyên môn, phát hiện nhân tài và kết nối hệ sinh thái an ninh mạng. Cuộc thi quy tụ hơn 200 đội thi đến từ các trường đại học, học viện trên toàn quốc, cùng sự góp mặt của một số đội thi từ các trường quốc tế, hứa hẹn mang đến những màn tranh tài gay cấn, sáng tạo và đầy cảm hứng.  
-🔗 Thông tin chi tiết cuộc thi: <https://cscv.vn>  
-![](/Resources/Images/SubDomain/fit/2025/CyberSecurity-VietNam2025-1.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CyberSecurity-VietNam2025-2.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CyberSecurity-VietNam2025-3.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CyberSecurity-VietNam2025-4.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CyberSecurity-VietNam2025-5.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CyberSecurity-VietNam2025-6.jpg)
+Trải qua vòng loại với gần 1000 sinh viên tham gia, MIT 2016 đã chứng tỏ vị thế của một cuộc thi học thuật lớn. Sức nóng lan tỏa từ những vòng đâu tiên để chọn ra mỗi Khối thi 5 đội vào vòng Chung kết. Kết quả tham gia vòng Chung kết gồm các đội: **VTC1, CNTT CL1, 327, KunK, Big Hero** (Khối Không Chuyển) và **Apollo, Again, Not Found, Big Diggers, TIP.**  
+Buổi thi chung kết bao gồm các nội dung: **Khởi động** (Dành cho 2 khối không chuyên và chuyên), **Ngọn tháp trí tuệ, Tốc độ** (Khối không chuyên) và **Truyền tin, Lập trình tiếp sức, Lắp ghép chương trình** (Khối chuyên)  
+Cuộc thi đã nhận được sự đồng hành của hai doanh nghiệp trong lĩnh vực CNTT là Công ty Fujinet System và Công ty Harvey Nash Việt Nam, và Trung tâm tin học, Trường ĐH Sư phạm Kỹ thuật Tp. Hồ Chí Minh.  
+Cùng đến tham dự Vòng Chung Kết của cuộc thi là sự có mặt của gần 300 bạn sinh viên và các đại diện Khách mời.  
+Phát biểu tại cuộc thi, ThS. Lê Văn Vinh - Phó Trưởng Khoa CNTT cho biết *"Khoa CNTT thành lập đến nay là 15 năm, thì cuộc thi Mastering IT đã được tổ chức lần thứ 11. Điều này chứng tỏ rằng, Khoa CNTT xem đây là một trong những hoạt động trọng tâm của Khoa. Cuộc thi không chỉ là nơi giao lưu giữa các sinh viên Trường ĐH Sư phạm Kỹ thuật Tp. Hồ Chí Minh, mà còn là môi trường nhằm giúp sinh viên có cơ hội rèn luyện cả về kiến thức chuyên môn và các kỹ năng mềm. Điều đó góp phần thúc đẩy sự thành công trong công tác đào tạo của Khoa cũng như của nhà Trường".*  
+PGS. TS. Đỗ Thành Trung - Phó Trưởng Phòng Khoa học và Công nghệ cũng nhận xét:*"Mặc dù được tổ chức vào ngày Chủ Nhật, cuộc thi vẫn thu hút được một số lượng lớn sinh viên của Trường tham dự và cỗ vũ hào hứng đến những phút cuối. Điều đó chứng tỏ cuộc thi có nhiều nội dung hấp dẫn và hữu ích"*.  
+
+![](/Resources/Images/SubDomain/fit/MIT%202016/MIT2016.jpg)
+
+Vòng chung kết đã diễn ra một cách gây cấn, hấp dẫn ngay từ phần chơi đầu tiên với sự bám sát từng điểm số của các đội. Và cuối cùng, với chiến thuật hợp lý hơn, đội VTC1 và Again đã trở thành nhà Tân vô địch của cuộc thi năm nay dành cho mỗi Khối.  
+Dù đã khép lại nhưng cuộc thi năm nay đã để lại rất nhiều ấn tượng cho các bạn thí sinh tham gia, Ban tổ chức và các nhà Tài trợ.   
+Hẹn gặp lại các bạn tại MASTERING IT 2017.  
+
+![](/Resources/Images/SubDomain/fit/MIT%202016/BIA_thumb.PNG)
 
 ![](/Resources/ImagesPortal/HomePage/tinkhac.png)
 [
 
 ============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=80a9d243-198c-4f0a-9a42-7b8c2df22d83
+URL: http://fit.hcmute.edu.vn/?ArticleId=4b08536e-039f-4577-8e31-cb7db18516fb
 ============================================================
 
 [Các Hoạt động nổi bật](/?TopicId=9525ab2d-5a64-41ae-b53d-d4b9631adb36)
 
-[TALKSHOW “AI VÀ DỮ LIỆU TRONG KỶ NGUYÊN SỐ”](/?ArticleId=80a9d243-198c-4f0a-9a42-7b8c2df22d83)
+[ĐẠI HỘI ĐOÀN KHOA- LIÊN CHI HỘI KHOA CÔNG NGHỆ THÔNG TIN](/?ArticleId=4b08536e-039f-4577-8e31-cb7db18516fb)
 
 Tác giả :
 
-✨ Cùng nhìn lại những khoảnh khắc đáng nhớ tại Talkshow “AI và Dữ liệu trong Kỷ nguyên số” do Khoa Công nghệ Thông tin – Trường Đại học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh tổ chức.  
-✨ Buổi chia sẻ đã mang đến cho sinh viên nhiều kiến thức bổ ích về trí tuệ nhân tạo (AI), dữ liệu lớn (Big Data) và an toàn thông tin, đồng thời mở ra những định hướng mới mẻ cho hành trình học tập và sự nghiệp trong tương lai.  
-✨ Xin gửi lời cảm ơn đến diễn giả, quý thầy cô và các bạn sinh viên đã đồng hành, góp phần tạo nên một chương trình ý nghĩa.  
-Hãy cùng nhau nhìn lại những hình ảnh nổi bật của Talkshow nhé!  
-![](/Resources/Images/SubDomain/fit/2025/TALKSHOW_AI-1.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/TALKSHOW_AI-12.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/TALKSHOW_AI-2.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/TALKSHOW_AI-16.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/TALKSHOW_AI-3.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/TALKSHOW_AI-4.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/TALKSHOW_AI-5.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/TALKSHOW_AI-6.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/TALKSHOW_AI-7.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/TALKSHOW_AI-8.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/TALKSHOW_AI-9.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/TALKSHOW_AI-10.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/TALKSHOW_AI-11.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/TALKSHOW_AI-13.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/TALKSHOW_AI-14.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/TALKSHOW_AI-15.jpg)
+![](/Resources/Images/SubDomain/fit/ĐẠI HỘI/pho.jpg)  
+  
+  
+![](/Resources/Images/SubDomain/fit/%C4%90%E1%BA%A0I%20H%E1%BB%98I/pho1.jpg)
+
+Nhiệm kỳ 2013 – 2015 vừa qua , dưới sự chỉ đạo nhiệt tình của Ban Chấp Hành, Đoàn – Hội khoa CNTT đã đi lên và đạt được thành tích xuất sắc trong các phong trào thi đua do Đoàn Trường tổ chức, tổ chức các hoạt động công tác xã hội để tạo cho các bạn sinh viên trong khoa củng cố điểm rèn luyện. Để đưa Khoa Công Nghệ Thông Tin đi lên hơn nữa và tạo được nhiều sự thay đổi vượt bậc trong các phong trào công tác đoàn hội, Ban chấp hành Khoa Công nghệ Thông tin đã tổ chức Đại hội đại biểu Đoàn Khoa và Đại hội đại biểu Liên Chi Hội Khoa Công Nghệ Thông Tin nhiềm kỳ 2015 - 2017 để bầu ra ban chấp hành Đoàn- Hội Khoa mới  với đầy lòng nhiệt huyết của tuổi trẻ. Từ bốn phương trời họ đã tụ họp về đây trở thành những cán bộ mới, cùng một chí hướng đưa Đoàn – Hội Khoa Công Nghệ Thông Tin phát triển hơn nữa, tạo sự phá cách trong các hoạt động đoàn thể.  
+  
+![](/Resources/Images/SubDomain/fit/%C4%90%E1%BA%A0I%20H%E1%BB%98I/pho11.jpg)  
+  
+  
+![](/Resources/Images/SubDomain/fit/%C4%90%E1%BA%A0I%20H%E1%BB%98I/pho3.jpg)
+
+Đại hội diễn ra trong nghi thức trang nghiêm, hình thức bầu cử thể hiện sự bình đẳng của những sinh viên ưu tú đi dự đại hội. Với đại hội, mục đích giao lưu các sinh viên,  tìm kiếm những sinh viên có thể phát triển các hoạt động Đoàn Khoa nỗi bật. Buổi đại hội đem lại cho sinh viên những hiểu biết mới hơn về những người góp phần thực hiện những công lớn cho Khoa Công nghệ Thông tin . Cũng như bên cạnh đó, những bó hoa thay cho những lời cảm ơn với những người đã góp phần làm các hoàn động như ngày hôm nay.
+
+Buổi đại hội kết thúc thành công với kết quả bầu cử như sau :
+
+Về phía  Đoàn Khoa Công Nghệ Thông Tin gồm có các đồng chí :   
+1. Trần Cao Trí  
+2. Nguyễn Văn Nhàn  
+3. Phạm Hửu Vinh  
+4. Lê Uyên Nguyên Dung  
+5. Đào Thị Phượng  
+6. Hồ Văn Phong  
+7. Huỳnh Quốc Đại  
+8. Nguyễn Công Hiệp  
+9. Dương Tuấn Kiệt  
+10. Lương Ngọc Lợi  
+11. Dương Hồng Phúc  
+12. Trương Tấn Tài  
+13. Hồ Thị Trúc Vy.  
+  
+![](/Resources/Images/SubDomain/fit/%C4%90%E1%BA%A0I%20H%E1%BB%98I/pho10.jpg)
+
+Về phía Liên Chi Hội Khoa Công Nghệ Thông Tin gồm có các đồng chí :    
+1. Nguyễn Văn Nhàn   
+2. Hoàng Thị Huyền  
+3. Dương Tuấn Kiệt   
+4. Lê Quang Huy  
+5. Nguyễn Thị Hồng   
+6. Huỳnh Quốc Đại   
+7. Hồ Văn Phong  
+8. Lê Vy Nhật Hiếu   
+9. Lưu Quang Trung  
+10.  Nguyễn Trung Thuần  
+11.  Lê Thanh Danh  
+12. Lê Thị Thảo Nhi  
+13. Trần Quang Triều  
+  
+![](/Resources/Images/SubDomain/fit/%C4%90%E1%BA%A0I%20H%E1%BB%98I/pho6.jpg)
+
+Cuối cùng, hi vọng rằng tất cả các anh chị, các bạn trong ban chấp hành nhiệm kỳ mới sẽ thực hiện và hoàn thành tốt với những nhiệm vụ của mình và hoạt động đoàn thể  để đưa hoạt động của Khoa Công nghệ Thông tin ngày càng phát triển mạnh mẽ hơn, không những giỏi về vấn đề học tập mà còn hoàn thành tốt nhiệm vụ của một sinh viên, đoàn viên.  
+  
+![](/Resources/Images/SubDomain/fit/%C4%90%E1%BA%A0I%20H%E1%BB%98I/pho8.jpg)
+
+Và cuối cùng chúc mừng tất cả mọi người.Chúc khoa sẽ có những bước tiến mạnh mẽ để xứng danh là Khoa Công Nghệ Thông Tin-trường Đại học  Sư Phạm Kỹ Thuật TP HỒ CHÍ MINH!
+
+                                                                                                   Viết Thanh- Đào Phượng
 
 ![](/Resources/ImagesPortal/HomePage/tinkhac.png)
 [
 
 ============================================================
-URL: http://fit.hcmute.edu.vn/?ArticleId=422c5062-86d9-494f-a9b0-6250e0247e60
+URL: http://fit.hcmute.edu.vn/?ArticleId=87f3b4fc-7fe9-4869-b5b3-bedf84167e78
 ============================================================
 
 [Các Hoạt động nổi bật](/?TopicId=9525ab2d-5a64-41ae-b53d-d4b9631adb36)
 
-[CTF HCMUTE 2025](/?ArticleId=422c5062-86d9-494f-a9b0-6250e0247e60)
+[HỘI DIỄN VĂN NGHỆ KHOA CÔNG NGHỆ THÔNG TIN (20/11)](/?ArticleId=87f3b4fc-7fe9-4869-b5b3-bedf84167e78)
 
 Tác giả :
 
-🌸 Cuộc thi “Sinh viên với An toàn thông tin – CTF HCMUTE 2025” đã khép lại, nhưng dư âm thì vẫn còn nguyên vẹn. Những giờ phút tập trung cao độ, những nụ cười khi tìm ra lời giải... tất cả đã tạo nên một hành trình đáng nhớ.   
-Không chỉ là cuộc thi, CTF còn là nơi các bạn sinh viên được thử sức, được cháy hết mình với đam mê và cùng nhau trưởng thành. Mỗi đội thi đều để lại dấu ấn riêng – dấu ấn của tinh thần đoàn kết, của bản lĩnh tuổi trẻ HCMUTE.   
-💙 Xin gửi lời chúc mừng đến tất cả các đội đã hoàn thành thử thách, và lời cảm ơn chân thành đến các thầy cô, anh chị và bạn bè đã đồng hành, cổ vũ.   
-CTF HCMUTE 2025 khép lại, nhưng hành trình tri thức và khát vọng vươn xa vẫn còn tiếp nối. Hẹn gặp lại ở những mùa thi tới, với nhiều sắc màu mới mẻ hơn.   
-![](/Resources/Images/SubDomain/fit/2025/CTF25-1.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CTF25-2.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CTF25-3.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CTF25-4.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CTF25-5.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CTF25-6.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CTF25-7.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CTF25-8.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CTF25-9.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CTF25-10.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CTF25-11.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CTF25-12.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CTF25-13.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CTF25-14.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CTF25-15.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CTF25-16.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CTF25-17.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CTF25-18.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CTF25-19.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CTF25-20.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CTF25-21.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CTF25-22.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CTF25-23.jpg)  
-![](/Resources/Images/SubDomain/fit/2025/CTF25-24.jpg)
+Nhân kỉ niệm 33 năm thành lập ngày Nhà giáo Việt Nam (20/11/1982- 20/11/2015). Đoàn trường ĐH Sư phạm Kỹ thuật TP HCM, tổ chức Hội thi Văn nghệ với chủ đề “ Bản sắc dân tộc Việt Nam”. Hội thi gồm 14 đội tham gia  đến từ các khoa (trong đó có khoa Công nghệ Thông tin) đã mang đến những tiết mục đặc sắc nhất với mục đích mang đến không khí vui tươi, sôi nổi để chào mừng ngày lễ 20/11. Đến tham gia cuộc thi các đội không những trổ tài năng âm nhạc như: ca hát, nhảy múa,… mà còn đưa thầy cô và các bạn sinh viên đến với khắp các bản làng dân tộc với những nét văn hóa riêng, những bộ trang phục dân tộc đầy ấn tượng và cuốn hút.
+
+![](/Resources/Images/SubDomain/fit/văn  nghệ khoa 15/DSC_0352.JPG)
+
+Với chủ đề “ bản sắc dân tộc”, mỗi khoa đã đem đến mỗi màu sắc riêng trong từng tiết mục văn nghệ của mình. Đối với khoa Công nghệ Thông tin-nhắc đến cái tên là người ta đã hình dung sự khô khan, chỉ biết cặm cụi vào máy tính viết code, lập trình.Thế nhưng không-tổ văn nghệ khoa Công nghệ Thông tin đã cho người xem thấy một mặt hoàn tác khác. Không chỉ biết, giỏi về máy tính mà họ còn có những tài năng từ hát cho đến múa.  Sự dàn dựng cho đến cách chọn tiếc mục cho thấy sự chuẩn bị công phu, chu đáo.
+
+![](/Resources/Images/SubDomain/fit/v%C4%83n%20%20ngh%E1%BB%87%20khoa%2015/DSC_0364.JPG)
+
+Với phần tốp ca “hướng về biển đông” như đưa người ta cảm nhận một chút gì đó về trách nhiệm của chúng ta cho dân tộc. Sự tự hào, lòng yêu nước được thể hiện qua từng câu hát. Khi ngân nga lên mới thấy hết được những cảm xúc mà đội tốp ca đem lại. Sự kết hợp từ những lời ca  hùng hồn cùng những điệu múa da diết  trong “TỔ QUỐC GỌI TÊN MÌNH” như mang người xem về sự biết ơn những anh hùng đã ngã xuống vì màu cờ sắc áo và cũng là sự khẳng định HOÀNG SA-TRƯỜNG SA là của VIỆT NAM.   
+  
+Đâu chỉ có vậy nhóm múa đã đem lại cho người xem được linh hồn, bản sắc của dân tộc việt nam.Trong thời đại bây giờ, sự hiện đại đã càng làm mai mọt đi những bản sắc dân tộc.Với tiết mục ĐẤT VIỆT-TIẾNG VỌNG NGÀN ĐỜI khoa Công nghệ Thông tin như đưa người xem đến những khung bậc cảm xúc khác nhau.một sự tự hào khi là người Việt Nam cho đến sự linh thiêng trong tâm hồn dân tộc Việt.
+
+![](/Resources/Images/SubDomain/fit/v%C4%83n%20%20ngh%E1%BB%87%20khoa%2015/DSC_0369.JPG)
+
+Mỗi tiết mục, mỗi màu sắc mỗi cá tính càng làm cho tiết mục khoa Công nghệ Thông tin thêm sự mới mẻ hơn trong cách dàn dựng.Những giọt mồ hôi, sự luyện tập chăm chỉ , chỉnh chu cho từng tiết mục được bù đắp lại bằng giải ba-tiết mục múa và giải khuyến khích toàn đoàn.Hy vọng rằng trong những năm tới, đội văn nghệ sẽ còn có nhiều tiết mục hơn để  mọi người sẽ tự hào hơn khi là IT của Trường Đại học Sư phạm Kỹ thuật TP. Hồ Chí Minh.
+
+![](/Resources/Images/SubDomain/fit/văn  nghệ khoa 15/DSC_0318.JPG)  
+  
+![](/Resources/Images/SubDomain/fit/v%C4%83n%20%20ngh%E1%BB%87%20khoa%2015/DSC_0373.JPG)  
+
+***Đào Phượng-Viết Thanh***
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=84dd5125-d3da-41d0-a478-420a942aaf5c
+============================================================
+
+[Các Hoạt động nổi bật](/?TopicId=9525ab2d-5a64-41ae-b53d-d4b9631adb36)
+
+[Chuỗi hoạt động "Chào Đón Tân Sinh Viên" Năm 2015](/?ArticleId=84dd5125-d3da-41d0-a478-420a942aaf5c)
+
+Tác giả :
+
+Trong không khí chào mừng năm học mới 2015-2016, . Nhằm giúp các bạn khóa mới hiểu rõ hơn về môi trường học tập mới của mình. Trường ĐH Sư Phạm Kỹ Thuật Tp.HCM nói chung và khoa Công Nghệ Thông Tin nói riêng đã tổ chức các chuỗi hoạt động chào đón tân sinh viên khóa 2015 bao gồm nhiều chương trình hấp dẫn như Hội thảo kỹ năng mềm, gian hàng đêm hội tân sinh viên,....  
+ Ngày 1/9/2015  Các bạn tân sinh viên được tham gia trồng cây xây dựng trường, đồng thời được các anh chị trong Ban chấp hành Đoàn – Hội dẫn đi tham quan trường và các phòng ban quan trọng trong trường. Bên cạnh đó, các bạn tân sinh viên của chúng ta còn được tham gia những trò chơi vô cùng thú vị và bổ ích với những phần quà vô cùng hấp dẫn.
+
+![](/Resources/Images/SubDomain/fit/TSV%202015/TSV%201.jpg)
+
+![](/Resources/Images/SubDomain/fit/TSV%202015/TSV%202.jpg)
+
+        Hướng tới việc định hướng về công việc tương lai, khoa Công Nghệ Thông Tin đã tổ chức cho 50 bạn tân sinh viên xuất sắc nhất được đi tham quan công ty phần mềm FPT SOFTWARE  vào ngày 3/9/2015. Các bạn khóa mới đã được các anh chị công ty dẫn đi tham quan khuôn viên công ty, bên cạnh đó còn được giao lưu học hỏi, chia sẻ kinh nghiệm trong công việc và trong học tập. Kết thúc chuyến đi, những ấn tượng sâu sắc về công ty cũng như các sản phẩm công nghệ đầy ấn tượng và hấp dẫn vẫn còn được lưu giữ lại trong tâm trí của các bạn tân sinh viên.
+
+![](/Resources/Images/SubDomain/fit/TSV%202015/12002197_1640527559548973_1780891249716260787_n.jpg)
+
+ 
+
+![](/Resources/Images/SubDomain/fit/TSV%202015/12002310_1640527652882297_6147934725059133621_n.jpg)
+
+       Đồng thời vào thời gian đó cũng đã diễn ra hội thảo kỹ năng mềm trong sinh viên dành riêng cho các bạn tân sinh viên CNTT. Các bạn được nghe thầy Nguyễn Chua – trưởng khoa tâm lý, trường đoàn Lý Tự Trọng hướng dẫn về các kỹ năng mềm trong cuộc sống, về cách xây dựng các mối quan hệ, cách hòa nhập vào môi trường mới cũng như được Đ/c Nguyễn Thế Bảo – Phó Bí thư Đoàn khoa CNTT chia sẽ kinh nghiệm trong học tập và định hướng công việc sau khi ra trường. Sau cuộc hội thảo này phần nào giúp cho các bạn tân sinh viên trau dồi thêm kỹ năng trong cuộc sống cũng như định hướng được con đường học tập sau này.
+
+![](/Resources/Images/SubDomain/fit/TSV%202015/DSC_8214.jpg)
+
+      
+  Bên cạnh đó các bạn tân sinh còn được thưởng thức giọng ca ngọt ngào từ các anh chị dành tặng cho mình. Đó tuy là một món quà tinh thần nhưng lại chất chứa bao nhiêu tình cảm.
+
+![](/Resources/Images/SubDomain/fit/TSV%202015/DSC_8181.jpg)
+
+      Chương trình trào đón tân sinh viên của chúng ta vẫn không dừng tại đó. Vào ngày 5/9/2015 đã diễn ra lễ chào đón tân sinh viên hứa hẹn đầy hấp dẫn và thú vị. Trong chương trình, BCN khoa cũng trao 2 phần quà dành cho 2 tân sinh viên có thành tích xuất sắc nhất trong đợt thi đại học vừa qua.
+
+ ![](/Resources/Images/SubDomain/fit/TSV%202015/DSC_8467.jpg)
+
+         Hơn thế nữa, các bạn còn được nghe chia sẻ từ những giảng viên trong Ban chủ nhiệm giới thiệu rõ hơn về ngành, về khoa Công Nghệ Thông Tin, định hướng chuyên ngành cho tương lai. Những thắc mắc về trường, về khoa từ các bạn sinh viên đều được BCN giải đáp một cách tận tình.
+
+![](/Resources/Images/SubDomain/fit/TSV%202015/DSC_8313b.jpg)
+
+![](/Resources/Images/SubDomain/fit/TSV%202015/DSC_8439.jpg)
+
+         Không chỉ vậy, những tiết mục văn nghệ đặc sắc, những trò chơi tập thể gay cấn đến từ chính các anh chị sinh viên trong khoa cùng nhiều phần quà hấp dẫn.
+
+![](/Resources/Images/SubDomain/fit/TSV%202015/DSC_8518.jpg)
+
+     
+
+        Cũng trong không khí chào mừng năm học mới, tại “Đêm hội tân sinh viên”  do Hội Sinh viên trường Đại học sư phạm kỹ thuật TPHCM tồ chức, gian hang ẩm thực khoa CNTT đã được các tân sinh viên nhiệt tình của chúng ta góp phần trang trí. Đây là hoạt động thiết thực giúp các bạn thích ứng với môi trường học tập mới , làm quen nhiều bạn mới, tạo sự giao lưu gắn kết tình cảm giữa sinh viên các khóa.
+
+![](/Resources/Images/SubDomain/fit/TSV%202015/10997611_1193858190640080_4657879258766500841_n.jpg)
+
+Ngoài ra, chính các bạn tân sinh viên của chúng ta cũng trực tiếp tham gia vào chương trình này. Tuy các bạn là tân sinh viên nhưng các bạn đã thể hiện sự nhiệt huyết, tinh thần máu lửa cho cuộc đời sinh viên sắp tới.
+
+![](/Resources/Images/SubDomain/fit/TSV%202015/11038079_412464142275732_6500226957181358412_n.jpg)
+
+    ![](/Resources/Images/SubDomain/fit/TSV%202015/11986531_412464355609044_5708163688501775996_n.jpg)
+
+   Chương trình “chào đón tân sinh viên khóa 2015” tuy đã kết thúc, nhưng vẫn để lại nhiều ấn tượng sâu sắc trong lòng mọi người đặc biệt là các bạn tân sinh viên. Chúc các bạn tân sinh viên thực hiện được ước mơ của mình.
+
+ Nguyên Dung
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=5206517a-c853-4a77-8d29-3ead6f271b3b
+============================================================
+
+[Các Hoạt động nổi bật](/?TopicId=9525ab2d-5a64-41ae-b53d-d4b9631adb36)
+
+[MASTERING IT 2015: CUỘC THI HỌC THUẬT DÀNH CHO SINH VIÊN – HỌC VÀ CHƠI](/?ArticleId=5206517a-c853-4a77-8d29-3ead6f271b3b)
+
+Tác giả :
+
+**MIT 2015: Năm của sự thay đổi và những con số**
+
+Là một Cuộc thi học thuật truyền thống của Khoa Công nghệ Thông tin – trường Đại học Sư phạm Kỹ thuật TP.HCM, trải qua nhiều năm tổ chức, Mastering IT đã trở thành một sân chơi quen thuộc với các bạn sinh viên ngành Công nghệ thông tin các trường đại học khác nhau trong Thành Phố Hồ Chí Minh.   
+  
+![](/Resources/Images/SubDomain/fit/MIT2015/DSC_2018.jpg)
+
+Năm nay, với mục đích nhằm hướng đến không chỉ là sinh viên đang theo học ngành Công nghệ Thông tin, mà còn nhằm tạo một sân chơi bổ ích dành cho các bạn sinh viên với niềm đam mê công nghệ, BTC cuộc thi **Mastering IT 2015** đã quyết định có một sự thay đổi lớn trong thể lệ và luật thi đấu của cuộc thi. Với việc phân chia thành hai hệ: **Chuyên và Không chuyên**. Tất cả các bạn sinh viên dù đang theo học hay không theo học ngành Công nghệ Thông tin đều có thể đăng ký tham gia cuộc thi. Chỉ một sự thay đổi nhỏ cũng đã đem lại những bất ngờ lớn khi có đến 93 đội đăng ký tham dự hệ Không chuyên và 18 đội đăng ký tham dự hệ Chuyên. Dù năm nay không tổ chức mở rộng ra các trường Đại học trong Thành phố như các năm trước, nhưng với những thay đổi nhằm tạo thêm sự hấp dẫn, cuộc thi chắc chắn sẽ được chào đón nồng nhiệt hơn vào các năm sau.  
+  
+![](/Resources/Images/SubDomain/fit/MIT2015/DSC_2127.jpg)
+
+ 
+
+**Sức nóng lan tỏa từ cuộc thi**
+
+Những ngày đầu tháng 04, Sài Gòn bắt đầu bước vào những ngày nắng nóng gay gắt. Thế nhưng, ở trường Đại học Sư phạm Kỹ thuật TP.HCM lại có một sự kiện còn nóng hơn cái nắng chói chan của bầu trời. Sức nóng đó xuất phát từ cuộc thi học thuật mang tên **“Mastering IT 2015”.  
+  
+![](/Resources/Images/SubDomain/fit/MIT2015/DSC_2022.jpg)**
+
+Bước vào vòng thi sơ loại đầu tiên, sức nóng của cuộc thi đã được thể hiện rất rõ với số lượng thí sinh rất đông.Với việc chỉ chọn ra ở mỗi hệ 5 đội bước vào Vòng Chung Kết, cuộc cạnh tranh giữa các đội lại càng thêm phần hấp dẫn. Và cuối cùng, BTC đã chọn ra được các đội bước vào vòng trong gồm: 119100, Connected, CTC, TLT, ABCD (Hệ Chuyên) và VTC5, R.I.P, MIT57, ZETTA, 6-NEW (Hệ Không chuyên).  
+  
+![](/Resources/Images/SubDomain/fit/MIT2015/DSC_2023.jpg)
+
+Và không ngoài mong đợi, các đội bước vào vòng Chung kết đều đã cho khán giả được xem những vòng thi vô cùng hấp dẫn và gây cấn với chung cuộc Giải Nhất đã thuộc về 119100 ở Hệ Chuyên và VTC5 ở Hệ Không Chuyên.
+
+ ![](/Resources/Images/SubDomain/fit/MIT2015/DSC_2115.jpg)
+
+Bên cạnh phần tranh tài đầy hấp dẫn của các đội chơi, các bạn tham gia cổ vũ cho các đội cũng đã có những phút giây vui vẻ với phần thi dành cho khán giả và những phần quà hấp dẫn đến từ BTC cũng như của các Nhà tài trợ cuộc thi. Tất cả không khí đã hòa nhịp tạo nên một ngày thi thành công của cuộc thi.   
+  
+![](/Resources/Images/SubDomain/fit/MIT2015/DSC_2150.jpg)
+
+**![](/Resources/Images/SubDomain/fit/MIT2015/DSC_2185.jpg)  
+  
+![](/Resources/Images/SubDomain/fit/MIT2015/DSC_2197.jpg)  
+  
+MIT 2015** đã khép lại nhưng sức nóng sẽ lan tỏa đến **MIT 2016.** Hãy cùng nhau lập đội và chuẩn bị cho Mastring IT 2016 nào…
+
+**Văn Nhàn**
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=da18fe05-c8ad-4e78-aa27-8a102dbe9ffa
+============================================================
+
+[Các Hoạt động nổi bật](/?TopicId=9525ab2d-5a64-41ae-b53d-d4b9631adb36)
+
+[Tập Huấn Kỹ Năng Cán Bộ Đoàn - Hội 2015](/?ArticleId=da18fe05-c8ad-4e78-aa27-8a102dbe9ffa)
+
+Tác giả :
+
+Sau 4 ngày được học tập và vui chơi, các bạn là cán bộ Đoàn - Hội Khoa Công nghệ Thông tin (CNTT) và Khoa Kinh tế (KT) đã có những phút giây thật vui vẻ, thoải mái và học được rất nhiều điều bổ ích.  
+Thông qua các buổi tập huấn, các bạn đã được học về Trình bày văn bản Đoàn - Hội, về các kỹ năng cơ bản như gút dây, lều trại, kỹ năng quản trò; và được chia sẻ về gì mà một người cán bộ Đoàn - Hội cần có,... Tuy chỉ có những khoảng thời gian tập huấn không nhiều nhưng các bạn cũng đã học được rất nhiều điều cần thiết cho một người cán bộ Đoàn - Hội.  
+  
+
+![](/Resources/Images/SubDomain/fit/TapHuanKN/10940631_549700328478516_7632539928712631690_n.jpg)
+
+Tập huấn Kỹ năng văn bản
+
+  
+  
+Chỉ diễn ra trong vài ngày nhưng các bạn hai Khoa CNTT và KT dù ban đầu xa lạ nhưng đã nhanh chóng hòa nhập và trở thành những người bạn thân của nhau. Các bạn đã có những trải nghiệm thật thú vị, được sống trong một tập thể và học được rất nhiều điều bổ ích từ chuyến dã ngoại tại Khu Di tích Văn Hóa - Tưởng Niệm các Vua Hùng. Đó sẽ là những kĩ niệm khó quên trong chúng ta.  
+  
+![](/Resources/Images/SubDomain/fit/TapHuanKN/1503286_550947388353810_2239745994131627426_n.jpg)  
+  
+Chúc cho các bạn sau chuyến tập huấn sẽ trở thành những người cán bộ luôn đi đầu trong phong trào Sinh viên Đoàn - Hội của hai Khoa Công nghệ Thông tin và Kinh tế, luôn giữ mãi niềm tin và ngọn lửa nhiệt huyết thanh niên trong con tim của chúng ta.  
+  
+  
+Một số hình ảnh của đợt tập huấn:  
+  
+
+![](/Resources/Images/SubDomain/fit/TapHuanKN/10940987_549700255145190_1075393293051164129_n.jpg)
+
+  
+  
+Hình ảnh buổi dã ngoại tại Khu tưởng niệm các Vua Hùng:  
+  
+![](/Resources/Images/SubDomain/fit/TapHuanKN/10897908_552149824900233_534199658879138683_n.jpg)  
+  
+  
+![](/Resources/Images/SubDomain/fit/TapHuanKN/10433841_552151311566751_463743291107721441_n.jpg)  
+  
+![](/Resources/Images/SubDomain/fit/TapHuanKN/10952399_552149621566920_4920482737426628701_n.jpg)  
+  
+  
+![](/Resources/Images/SubDomain/fit/TapHuanKN/10945542_552147614900454_8166908821132831984_n.jpg)  
+  
+![](/Resources/Images/SubDomain/fit/TapHuanKN/540373_552147391567143_2522092629428134780_n.jpg)  
+  
+
+Văn Nhàn
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=857faf0d-a1df-4a96-b4b3-b3e4d4a7cd2d
+============================================================
+
+[Các Hoạt động nổi bật](/?TopicId=9525ab2d-5a64-41ae-b53d-d4b9631adb36)
+
+[Gặp Gỡ, Đối Thoại Giữa Sinh Viên Với BCN Khoa CNTT](/?ArticleId=857faf0d-a1df-4a96-b4b3-b3e4d4a7cd2d)
+
+Tác giả :
+
+Tham gia buổi đối thoại có sự hiện diện của các thầy, cô trong BCN, Chi ủy Khoa CNTT, Trưởng/ phó các bộ môn, đại diện BCH Đoàn - Hội Khoa và các Giảng viên khoa CNTT.  
+Trong buổi đối thoại, sinh viên đã đặt các câu hỏi và được các thầy, cô trực tiếp trả lời. Các câu hỏi xoay quanh rất nhiều vấn đề thắc mắc của sinh viên như về Chương trình đào tạo, các quy định đối với sinh viên Sư phạm cũng như các quy định khác của Trường, Khoa.  
+  
+
+![](/Resources/Images/SubDomain/fit/GAPBCN2.gif)
+
+  
+Cũng trong buổi gặp gỡ, BCN Khoa đã tư vấn, giải đáp các thắc mắc của sinh viên khóa 2012 và các bạn sinh viên quan tâm về việc chọn chuyên ngành.  
+Sự tham gia nhiệt tình của các bạn sinh viên đã cho thấy sinh viên trong khoa ngày càng quan tâm đến các vấn đề học tập, rèn luyện của bản thân. Buổi gặp gỡ đã thể hiện sự quan tâm, chỉ đạo sâu sắc của BCN, Chi ủy Khoa cũng như của các thầy, cô đối với sinh viên. Đây là một hoạt động thiết thực, cần được duy trì và mở rộng thường xuyên hơn nữa trong Khoa CNTT.  
+Một số hình ảnh:  
+  
+
+![](/Resources/Images/SubDomain/fit/GAPBCN1.gif)  
+  
+![](/Resources/Images/SubDomain/fit/GAPBCN4.gif)  
+  
+![](/Resources/Images/SubDomain/fit/GAPBCN5.gif)
+
+  
+
+Văn Nhàn
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=01a97601-15dc-4f8b-8bd4-8a062e7c3f73
+============================================================
+
+[Các Hoạt động nổi bật](/?TopicId=9525ab2d-5a64-41ae-b53d-d4b9631adb36)
+
+[Họp Mặt Cựu Sinh Viên Khoa CNTT Năm 2014](/?ArticleId=01a97601-15dc-4f8b-8bd4-8a062e7c3f73)
+
+Tác giả :
+
+Hướng tới kỉ niệm 32 năm Ngày nhà giáo Việt Nam, BLL Cựu sinh viên khoa CNTT cùng BCN Khoa và Đoàn – Hội Khoa CNTT đã tổ chức Buổi họp mặt Cựu sinh viên khoa CNTT 2014. Tham gia buổi họp mặt có ThS. Đinh Công Đoan – Phó trưởng khoa CNTT, ThS. Nguyễn Hữu Trung - Bí thư chi bộ khoa CNTT, ThS. Nguyễn Minh Đạo – Trưởng BLL Cựu sinh viên khoa CNTT, Trưởng bộ môn Công nghệ phần mềm, Thầy Bùi Huy Quỳnh - nguyên trưởng Trung tâm tin học và khoa CNTT và đặc biệt là sự góp mặt của hơn 100 Cựu sinh viên  khoa CNTT từ khóa 1994 đến khóa 2010.
+
+![](/Resources/Images/SubDomain/fit/4.jpg) 
+
+Buổi gặp mặt đã diễn ra trong không khí cởi mở và ấm cúng. Các Cựu sinh viên đã có dịp gặp mặt các thầy, cô và bạn bè sau nhiều năm và cùng nhau ôn lại kỷ niệm dưới mái trường năm xưa. Thay mặt cho BCN Khoa, thầy Đinh Công Đoan – Phó trưởng khoa CNTT, đã dành những lời cảm ơn chân thành đến toàn thể các Cựu sinh viên đã tham gia buổi họp mặt cũng như giới thiệu những đổi mới về quy mô, chương trình đào tạo, đội ngũ giáo viên và cơ sở vật chất của khoa. Sau hơn 20 năm kể từ khóa đầu tiên, Khoa CNTT đã và đang tiếp tục chứng tỏ là một trong những khoa đi đầu trong đổi mới và nâng cao chất lượng dạy học, đào tạo ra những kĩ sư CNTT chất lượng.
+
+![](/Resources/Images/SubDomain/fit/3.jpg)  
+ThS Đinh Công Đoan - Phó trưởng khoa CNTT
+
+Cũng trong buổi họp mặt, các Cựu sinh viên đã đóng góp, ủng hộ cho Quỹ học bổng Cưu sinh viên của BLL Cựu sinh viên Khoa CNTT. Số tiền quyên góp được sẽ là những suất học bổng trao đến những sinh viên có hoàn cảnh khó khăn và học tốt trong Khoa.
+
+Buổi họp mặt Cựu sinh viên khoa CNTT đã khép lại với thật nhiều cảm xúc, giúp moi người cùng ôn lại những kỷ niệm đẹp. Đây là một hoạt động thiết thực và ý nghĩa nhằm phát huy truyền thống tốt đẹp, tạo sự đoàn kết, gắn bó giữa các Cựu sinh viên và giữa Cựu sinh viên với khoa CNTT.  
+  
+Một số hình ảnh về buổi họp mặt:  
+  
+
+![](/Resources/Images/SubDomain/fit/1.jpg)
+
+  
+  
+![](/Resources/Images/SubDomain/fit/11.jpg)  
+  
+![](/Resources/Images/SubDomain/fit/6.jpg)  
+![](/Resources/Images/SubDomain/fit/5.jpg)  
+  
+![](/Resources/Images/SubDomain/fit/10.jpg)  
+  
+![](/Resources/Images/SubDomain/fit/7734920745179311_n.jpg)  
+  
+
+Văn Nhàn
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=2bdbc5d0-5944-432d-9307-70455e24a638
+============================================================
+
+[Các Hoạt động nổi bật](/?TopicId=9525ab2d-5a64-41ae-b53d-d4b9631adb36)
+
+[Hội nghị LCH Khoa CNTT giữa nhiệm kì 2013 - 2015](/?ArticleId=2bdbc5d0-5944-432d-9307-70455e24a638)
+
+Tác giả :
+
+Vào ngày 5 tháng 11 năm 2014, Hội nghị đại biểu LCH Khoa Công nghệ Thông tin giữa nhiệm kì 2013 - 2015 đã diễn ra thành công tốt đẹp với nhiều ý kiến đóng góp, chỉ đạo tích cực từ các đại biểu, thầy cô.  
+  
+
+![](/Resources/Images/SubDomain/fit/LCH2.gif)
+
+  
+Với mục tiêu xây dựng LCH vững mạnh trong các hoạt động, phong trào vì sinh viên khoa Công nghệ Thông tin, Hội nghị đã chọn ra 10 bạn mới ứng cử vào BCH LCH nữa sau nhiệm kì 2013 - 2015. Với tinh thần đầy nhiệt huyết, sáng tạo, chúc cho các bạn trong BCH LCH sẽ hoàn thành tốt các nhiệm vụ của mình.  
+  
+
+![](/Resources/Images/SubDomain/fit/LCH3.gif)
+
+  
+
+Văn Nhàn
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=5ccc4508-a059-49de-85dd-995bc8a42d09
+============================================================
+
+[Các Hoạt động nổi bật](/?TopicId=9525ab2d-5a64-41ae-b53d-d4b9631adb36)
+
+[Hội nghị Đoàn khoa giữa nhiệm kỳ 2013 - 2015](/?ArticleId=5ccc4508-a059-49de-85dd-995bc8a42d09)
+
+Tác giả :
+
+"Vào
+ngày 12-10-2014,Hội nghị Đại biểu Đoàn khoa Công nghệ Thông tin lần 2
+nhiệm kì 2013-2015 kết thúc tốt đẹp với nhiều đóng góp ý kiến nhiệt tình
+từ các đại biểu ,thầy cô .   
+![](/Resources/Images/SubDomain/fit/hndoan2.jpg)  
+  
+Với mục tiêu trở thành Đoàn khoa đi đầu
+trong phong trào hoạt động,Hội nghị đã chọn ra 7 bạn Đoàn viên ưu tú để
+bầu vào BCH . Năng động , sáng tạo , đầy nhiệt huyết đó chính là những
+tiêu chí để chọn ra những đoàn viên xuất sắc bầu vào BCH Đoàn khoa cùng
+Khoa xây dựng nên phong trào hoạt động-học tập nghiên cứu tôt hơn. Chúc
+các bạn sẽ giữ mãi ngọn lửa nhiệt huyết ấy ".  
+![](/Resources/Images/SubDomain/fit/donhoi1.jpg)  
+  
+
+Thiên Ân
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=e211f272-4c42-4b92-a500-bd0293ee0fcf
+============================================================
+
+[Các Hoạt động nổi bật](/?TopicId=9525ab2d-5a64-41ae-b53d-d4b9631adb36)
+
+[Chúc mừng Đảng viên mới của Khoa CNTT](/?ArticleId=e211f272-4c42-4b92-a500-bd0293ee0fcf)
+
+Tác giả :
+
+Chúc mừng Đảng viên mới của Khoa CNTT  
+  
+![](/Resources/Images/SubDomain/fit/dvm.jpeg)  
+  
+![](/Resources/Images/SubDomain/fit/knd1.jpg)  
+  
+![](/Resources/Images/SubDomain/fit/knd2.jpg)
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=e4addcc7-1169-4c8c-93a2-9538c1b3752f
+============================================================
+
+[Tin Trang Chủ](/?TopicId=655da697-17c3-40a9-80a9-706efec37b33)
+
+[Tuyển sinh Cao học ngành "Khoa học máy tính"](/?ArticleId=e4addcc7-1169-4c8c-93a2-9538c1b3752f)
+
+Tác giả :
+
+THÔNG BÁO TUYỂN SINH CAO HỌC NGÀNH KHOA HỌC MÁY TÍNH  
+  
+
+Thời gian nhận hồ sơ dự thi cao học đợt 1/2017: Hạn chót ngày 06/01/2017.
+
+Thời gian thi: 25-26/02/2017.  
+
+Thí sinh vui lòng download hồ sơ trên website: [sdh.hcmute.edu.vn](http://sdh.hcmute.edu.vn/) tại mục Tuyển sinh SĐH.
+
+Nhà trường sẽ tổ chức ôn thi cho các thí sinh, chi tiết về lịch ôn thi xin liên hệ Phòng Sau đại học, ĐH SPKT TP.HCM. Điện thoại: 08.37225.766
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=f9ef1360-7803-4b86-a0d5-1c7b610a3a9e
+============================================================
+
+[Tin Trang Chủ](/?TopicId=655da697-17c3-40a9-80a9-706efec37b33)
+
+[KẾ HOẠCH TỔ CHỨC CHƯƠNG TRÌNH ĐỊNH HƯỚNG NGHỀ NGHIỆP TƯƠNG LAI CHO TÂN SINH VIÊN KHÓA 2016](/?ArticleId=f9ef1360-7803-4b86-a0d5-1c7b610a3a9e)
+
+Tác giả :
+
+|  |  |
+| --- | --- |
+| Bộ Giáo dục và Đào tạo  Trường Đại học Sư phạm Kỹ thuật Tp. Hồ Chí Minh  Khoa: Công nghệ Thông tin | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  Độc lập – Tự do – Hạnh phúc  Tp. Hồ Chí Minh, ngày 14 tháng 09 năm 2016 |
+
+**KẾ HOẠCH TỔ CHỨC CHƯƠNG TRÌNH ĐỊNH HƯỚNG NGHỀ NGHIỆP TƯƠNG LAI CHO TÂN SINH VIÊN  KHÓA 2016**
+
+**(Khoa CNTT và Khoa Chất Lượng Cao)**
+
+ 
+
+Chương trình định hướng nghề nghiệp tương lai cho tân sinh viên khóa 2016 được tổ chức vào thời gian và địa điểm như sau:
+
++ Thời gian: Từ 7h30 – 11h, Thứ Bảy, ngày 24/09/2016.
+
++ Địa điểm: Phòng họp II, lầu 6, tòa nhà trung tâm.
+
+Đối tượng tham dự:
+
+**+ Tất cả sinh viên Khóa 2016 ngành CNTT (Khoa CNTT và Khoa CLC)**
+
++ Sinh viên các khóa khác có quan tâm.
+
+**Sinh viên đăng ký tham dự theo link:**
+
+<https://docs.google.com/forms/d/e/1FAIpQLSe2KPbjdt2kgwkMQGp13RPvgXTucWHOM7YWt8e3_SAkz6zeuw/viewform?c=0&w=1>.
+
+Sinh viên tham dự sẽ được cộng điểm rèn luyện theo quy định.
+
+ 
+
+Nội dung chương trình của mỗi buổi định hướng được dự kiến như sau:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| **Thời gian** | **Tiết mục** | **Nội dung** | **Người thực hiên** |
+| *15 phút* | *( Trước khi bắt đầu buổi định hướng)*  *Video giới thiệu quảng bá doanh nghiệp tham gia chương trình* | | |
+| 10 phút | Khởi động chương trình  Khoa/Trường tri ân Doanh nghiệp | | Người điều phối  (Talent Mind Education)  Trường/Khoa |
+| 50 phút | **Phần 1: Lập kế hoạch cho tương lai**  -Bạn sẽ làm gì vào 4 năm sau?  -Lập kế hoạch học tập – hoạch định nghề nghiệp tương lai.  -Hoạch định cho nghề CNTT: Hãy rèn luyện thực hành và trải nghiệm ngay từ năm đầu tiên. | | Dr. Nguyễn Huy Hoàng  CEO Talent Mind Education     *-Các hoạt động thực hành tương tác xen kẽ* |
+| 100 phút | **Phần 2 – Nghề CNTT và yêu cầu của doanh nghiệp tuyển dụng**  *(Dự kiến sẽ có 4-5 nhóm công việc CNTT được chia sẻ từ chuyên gia của doanh nghiệp tham gia chương trình)* | | Các chuyên gia đến từ doanh nghiệp tham gia chương trình.  Người điều phối (Talent Mind Education) |
+| 45 phút | **Phần 3: Tư vấn từ người trong nghề**  Giao lưu giữa chuyên gia doanh nghiệp và sinh viên – Hỏi / đáp, tư vấn và chia sẻ kinh nghiệm | | -Người điều phối (Talent Mind Education)  -Các chuyên gia, đại diện đến từ các doanh nghiệp |
+| 10 phút | Bốc thăm may mắn  Trúng thưởng quà đến từ BTC và Doanh nghiệp tài trợ  *(Kết hợp hoạt động thăm dò chất lượng đầu vào của sinh viên)* | | |
+| 5 phút | Tổng kết chương trình  Chụp hình chung | | |
+
+                                                                                                BCN Khoa CNTT
+
+                                                                                                ThS. Lê Văn Vinh
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=f07fe0c7-5185-4fbf-a377-00007144e2c0
+============================================================
+
+[Tin Trang Chủ](/?TopicId=655da697-17c3-40a9-80a9-706efec37b33)
+
+[Hội thảo nhà trường, Doanh nghiệp và sinh viên trong chất lượng đào tạo ngành CNTT](/?ArticleId=f07fe0c7-5185-4fbf-a377-00007144e2c0)
+
+Tác giả :
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=7484b765-9b63-4c51-86ac-69452fc457c3
+============================================================
+
+[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
+
+[Ngày hội việc làm năm 2016](/?ArticleId=7484b765-9b63-4c51-86ac-69452fc457c3)
+
+Tác giả :
+
+![](/Resources/Images/SubDomain/fit/20152016/Thumb-01.jpg)  
+  
+[Thông tin doanh nghiệp tham gia ngày 23/05/2016](/Resources/Docs/SubDomain/fit/20152016/tham gia 23_5.pdf)  
+[Thông tin doanh nghiệp tham gia ngày 24/05/2015](/Resources/Docs/SubDomain/fit/20152016/tham gia 24_5.pdf)
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=01a50551-b3ac-48bd-a597-6b3068111857
+============================================================
+
+[Tin Trang Chủ](/?TopicId=655da697-17c3-40a9-80a9-706efec37b33)
+
+[Buổi báo cáo Mock Project tại FSOFT](/?ArticleId=01a50551-b3ac-48bd-a597-6b3068111857)
+
+Tác giả :
+
+**25 sinh viên trường ĐH Sư Phạm Kỹ Thuật thành phố Hồ Chí Minh tham gia báo cáo Mock Project tại Trung Tâm Đào Tạo FPT Software Hồ Chí Minh ngày 06/01/2016**
+
+**![IMG_2713](https://mail.google.com/mail/u/1/?ui=2&ik=5737561eee&view=fimg&th=1521b459894d6799&attid=0.0.2&disp=emb&realattid=69db912c88c692d7_0.0.2&attbid=ANGjdJ9bhIebr_I66NNaPES_sW2F1sJfwTmO3YquKdWfzJ6BOFC_3z3s5h0d1Y4h1IsiXAXNMqTNKxu7DapYjacC2WYqxMjAA0ijtBqlrd0IKtOjsWjy3uYV9UHVN3k&sz=w1250-h938&ats=1452156773318&rm=1521b459894d6799&zw&atsh=1)**
+
+Mock Project là sự kiện tiếp nối chương trình Global Software Talent (GST) của FPT Software HCM (FSOFT HCM) – chương trình liên kết đào tạo với các trường Đại học trên cả nước nhằm tìm kiếm các ứng viên tiềm năng. Đây cũng là khóa GST thứ 3 mà FSOFT HCM phối hợp cùng trường đại học Sư Phạm Kỹ Thuật thành phố Hồ Chí Minh (HCMUTE) triển khai. Hoạt động này nhằm mục tiêu đánh giá năng lực lập trình của sinh viên thông qua việc áp dụng các kiến thức về ngôn ngữ lập trình Java vào một dự án thực tế.
+
+ 
+
+Buổi báo cáo diễn ra thành công với sự tham dự của  Thầy Đặng Thanh Dũng – trưởng khoa CNTT, HCMUTE; các chuyên viên đào tạo của trung tâm đào tạo FSOFT HCM; và anh TuyNV (đội dự án FSU15.BU11) với vai trò trợ giảng, tham gia đồng đánh giá sinh viên. Ngay trong buổi báo cáo, 05 sinh viên đủ điều kiện đã được bộ phận tuyển dụng phỏng vấn sơ bộ nhằm tìm ra ứng viên xuất sắc về làm việc tại các đội dự án của FSOFT trong thời gian sắp tới.  
+  
+![](/Resources/Images/SubDomain/fit/20152016/IMG_2711.JPG)
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=958f0560-739c-4768-b503-5ab23c1c0a65
+============================================================
+
+[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
+
+[Campus Link 2016 và chương trình 10.000 kỹ sư cầu nối](/?ArticleId=958f0560-739c-4768-b503-5ab23c1c0a65)
+
+Tác giả :
+
+Đến tham dự buổi hội thảo có sự góp mặt của các cán bộ quản lý CTC.HCM, lãnh đạo và hơn 100 sinh viên khoa công nghệ thông tin và khoa chất lượng cao HCMUTE.
+
+[![11-12-2015 9-53-17 AM](https://mail.google.com/mail/u/0/?ui=2&ik=5737561eee&view=fimg&th=15104dd8acdeaffd&attid=0.0.1&disp=emb&realattid=3eaa71534ddcb88e_0.0.1&attbid=ANGjdJ-v1ovjcDMDhLlKVrLspBfV9j4bdXIudjNnufX3sNBb_gk8Lm8XSUdYdP0CAaU84BEJL_LX4ODoBWu9W8WSH4Z14SyZ4Gcd35YFI_WLsKlrj7CFaVPRHatk2sI&sz=w1780-h420&ats=1447739085599&rm=15104dd8acdeaffd&zw&atsh=1)](https://cucumber.fsoft.com.vn/wp-content/uploads/sites/14/2015/11/11-12-2015-9-53-17-AM.png)
+
+Chương trình được tổ chức với mục tiêu đưa sinh viên tiếp cận gần hơn với các cơ hội thực tập, việc làm tại FSOFT sau khi tốt nghiệp, hoặc thậm chí ngay từ khi sinh viên còn đang ngồi trên ghế nhà trường. Nhờ đó, các bạn có định hướng tốt hơn cho con đường sự nghiệp tương lai. Theo đó mà trau dồi các kiến thức và kỹ năng cần thiết cho bản thân, đáp ứng tốt các yêu cầu từ doanh nghiệp. “Đây thực sự là một chương trình bổ ích và cần thiết mà khoa CNTT phối hợp thực hiện cùng FSOFT HCM, với hi vọng các bạn sinh viên sẽ nắm bắt được cơ hội và đạt được những thành công trong tương lai” – Thầy Đặng Thanh Dũng, trưởng khoa CNTT chia sẻ.  
+![](/Resources/Images/SubDomain/fit/20152016/h3.png)
+
+Đặc biệt, nhằm tăng cường sự hợp tác giữa khoa CNTT và FSOFT, vào cuối chương trình, 2 bên đã cùng ký bản ghi nhớ hợp tác (MOU). Đây là nền tảng cho sự hợp tác bền vững giữa đôi bên không những trên lĩnh vực hợp tác đào tạo mà còn trên nhiều lĩnh vực khác như cơ hội thực tập, việc làm, cộng tác.  
+  
+![](/Resources/Images/SubDomain/fit/20152016/h1.png)  
+![](/Resources/Images/SubDomain/fit/20152016/h2.png)
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=14e4568b-7ce9-4560-aeb5-0412ee75fa21
+============================================================
+
+[Các thông báo mới](/?TopicId=05556b7b-ed01-4261-9390-4583add544ea)
+
+[Kế hoạch đón Tân Sinh viên khoá 2015](/?ArticleId=14e4568b-7ce9-4560-aeb5-0412ee75fa21)
+
+Tác giả :
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=44d15ab5-ab41-4bb9-aeed-90c3d5370392
+============================================================
+
+[Tin Trang Chủ](/?TopicId=655da697-17c3-40a9-80a9-706efec37b33)
+
+[Cuộc thi "Innovative App Challenge 2015"](/?ArticleId=44d15ab5-ab41-4bb9-aeed-90c3d5370392)
+
+Tác giả :
+
+![](/Resources/Images/SubDomain/fit/20152016/Innovative%20App%20Challenge%202015%20poster.jpg)  
+
+**Thể lệ cuộc thi:**
+
+**Tham gia:**
+
+* Sản phẩm dự thi có thể dựa trên các nền tảng như Windows/Windows Phone, Android hoặc iOS, thỏa các điều kiện tiêu chuẩn của một ứng dụng thuộc các chuyên mục như: giáo dục, giải trí, tin tức, thư giãn, ebook, công cụ, âm nhạc, hình ảnh, đa phương tiện, mạng xã hội,… Các ứng dụng phải phù hợp với thuần phong mỹ tục, không chứa các nội dung kích động, bạo lực hoặc trái pháp luật của nước Việt Nam.
+* Những ứng dụng dự thi chưa đăng ký ở những cuộc thi khác, chưa từng công bố, ứng dụng không được sao chép các ứng dụng có sẵn trên các cửa hàng ứng dụng. Trong thời gian diễn ra cuộc thi, các tác giả không được sử dụng các sản phẩm đang dự thi để tham dự bất kỳ cuộc thi khác.
+* Tác giả ứng dụng dự thi phải chịu trách nhiệm về bản quyền tác giả và các quyền liên quan theo quy định của pháp luật. Ban tổ chức không chịu trách nhiệm về bất cứ sự tranh chấp nào liên quan đến bản quyền của ứng dụng dự thi. Ban tổ chức sẽ chỉ nhận thông tin đăng ký tham gia đến hết ngày 11/10/2015 qua email: smiccontest@shtp-training.edu.vn.
+
+**Qui trình nộp bài:**
+
+**Hạn chót ngày 11/10/2015**: Gửi source code và app package (XAP | APP | APK | APPX… ) về địa chỉ smiccontest@shtp-training.edu.vn với tiêu đề [INNOVATIVE APP CHALLENGE 2015] <Tên App> để đăng ký.
+
+Gửi thông tin liên hệ và screenshots của app về email trên.
+
+**Vòng Chung kết và trao giải của cuộc thi sẽ diễn ra vào ngày 16/10/2015 tại Trung tâm Đào tạo Khu Công nghệ cao TP.HCM (Lô E1, Khu Công nghệ cao, Xa lộ Hà Nội, P. Hiệp Phú, Quận 9, TP. HCM).**
+
+**Tiêu chuẩn đánh giá và cơ cấu giải thưởng:**
+
+Ứng dụng tham dự sẽ được test source code và đánh giá dựa trên các tiêu chí (thang điểm 1 - 10):
+
+ 
+
+* Sáng tạo & độc đáo.
+* Giao diện.
+* Ổn định.
+
+**Cơ cấu giải thưởng:**
+
+* 1 Giải Nhất: 4.000.000 VNĐ
+* 1 Giải Nhì: 3.000.000 VNĐ
+* 1 Giải Ba: 2.000.000 VNĐ
+* 5 Giải Khuyến khích: mỗi giải 500.000 VNĐ
+
+**Phạm vi áp dụng chương trình:**
+
+Áp dụng cho tất cả sinh viên, doanh nghiệp và cá nhân đam mê CNTT và lập trình ứng dụng trên phạm vi toàn quốc.
+
+ 
+
+Để biết thêm thông tin, vui lòng truy cập [www.shtp-training.edu.vn](http://www.shtp-training.edu.vn/)
+
+Hoặc liên hệ HOTLINE: 0917 141 505 | Email: anhlht@shtp-training.edu.vn
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=1039ee8d-e532-48b5-9347-ace4dc7d735b
+============================================================
+
+[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
+
+[SandKlock Tuyển PHP Developer](/?ArticleId=1039ee8d-e532-48b5-9347-ace4dc7d735b)
+
+Tác giả :
+
+SandKlock cần tuyển **02** **PHP Developer**, chi tiết như sau:  
+  
+**Mô tả công việc:**  
+  
+• Thiết kế và phát triển Web bằng ngôn ngữ PHP, Node.js.  
+• Phát triển hệ thống SoclAll và SoclAll API (soclall.com).  
+• Xây dựng các social module cho các hệ thống như opencart, wordpress, shopify...  
+• Phát triển các dự án về Social Network và online projects với khách hàng nước ngoài.  
+  
+**Yêu cầu công việc:**  
+  
+• Tốt nghiệp Đại Học/Cao Đẳng chuyên ngành Công Nghệ Thông Tin  
+• Tư duy logic tốt. Kiến thức tốt về nguyên lý lập trình web, nguyên lý hoạt động của các website, giao thức HTTP.   
+• Thành thạo PHP, Javascript, CSS.  
+• Xây dựng hệ thống có khả năng mở rộng.  
+• Có thể đọc hiểu và nhanh chóng sử dụng các thư viện javascript.  
+• Đọc viết tiếng Anh tốt.  
+  
+**Ưu tiên:**  
+  
+• Có kinh nghiệm lập trình web.  
+• Đã từng nghiên cứu về API của các mạng xã hội lớn như Facebook, Twitter, LinkedIn…  
+• Biết Node.js, MongoDB là 1 lợi thế.  
+  
+**Quyền lợi:**  
+  
+• Thu nhập từ $250 - $500 tùy theo kinh nghiệm làm việc.  
+• Đội ngũ nhân viên trẻ tuổi, môi trường làm việc thân thiện.  
+• Cơ hội thăng tiến cao dựa trên sự đóng góp của ứng viên.  
+  
+**Địa điểm làm việc**: 98/25 Ung Văn Khiêm, P. 25, Q. Bình Thạnh, TP. HCM.  
+  
+Các bạn quan tâm vui lòng gửi CV về địa chỉ email: **ttduy@sandklock.com**  
+  
+Xin cảm ơn và hẹn gặp các bạn tại SandKlock!
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=e1ba9c74-1ba7-43bb-ae1d-75266fac3a93
+============================================================
+
+[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
+
+[Java RECRUITMENT DAY – KMS LAUNCH Program](/?ArticleId=e1ba9c74-1ba7-43bb-ae1d-75266fac3a93)
+
+Tác giả :
+
+**KMS Mang Đến Cho Bạn Những Gì?**
+
+Tùy thuộc vào kết quả phỏng vấn, bạn sẽ nhận được một hoặc nhiều những quyền lợi sau đây:
+
+* Một công việc chính thức tại KMS:
+
+-        Môi trường làm việc quốc tế, năng động, sáng tạo
+
+-        Cơ hội làm việc với các hệ thống phần mềm lớn và phức tạp đang được sử dụng bởi các doanh nghiệp tại Mỹ.
+
+-        Cơ hội làm việc với những công nghệ và kiến trúc phần mềm mới nhất
+
+-        Mức lương cạnh tranh và phúc lợi hấp dẫn so với mặt bằng chung của thị trường
+
+* Cam kết tuyển dụng ngay sau khi ra trường đối với sinh viên năm 3 và năm 4.
+* Chương trình huấn luyện chuyên biệt nhằm phát hiện những điểm mạnh của riêng bạn và cung cấp điều kiện để bạn phát triển chúng một cách tối đa giúp rút ngắn khoảng cách con đường trở thành một lập trình viên chuyên nghiệp mà bạn đang theo đuổi.
+
+**Đối Tượng Nên Tham Gia Là Ai?**
+
+- Sinh viên năm 3, năm 4 hoặc mới tốt nghiệp (<1 năm kinh nghiệm) chuyên ngành IT
+
+- Trình độ tiếng Anh: Intermediate
+
+-GPA:  6.8 (hoặc cao hơn)
+
+- Đam mê công nghệ Java
+
+**Nội Dung Chương Trình  LAUNCH**
+
+**Giai đoạn 1:** *3 tuần*
+
+-        *Văn hóa công ty KMS và nguyên tắc ứng xử trong môi trường làm việc chuyên nghiệp*
+
+-        *Huấn luyện kỹ năng mềm*
+
+-        *Quy trình phát triển và những công cụ cần thiết*
+
+-        *Làm cách nào để viết code đạt chuẩn ngành phần mềm*
+
+**Giai đoạn 2:** *5 tuần – Bắt buộc vượt qua bài kiểm tra Giai đoạn 1*
+
+-        *Tham gia vào một Scrum Team và làm việc trong một dự án phát triển phần mềm*
+
+-        *Ứng dụng tất cả những kiến thức được học trong giai đoạn 1 vào thực tiễn*
+
+*Kết thúc giai đoạn 2, nếu học viên thỏa mãn những yêu cầu đề ra, họ sẽ:*
+
+-        *Vượt qua giai đoạn thử việc tại KMS nếu bạn tham gia chương trình với tư cách nhân viên thử việc.*
+
+-        *Được nhận ngay vào làm tại KMS mà không cần trải qua giai đoạn thử việc nếu bạn tham gia chương trình với tư cách thực tập sinh.*
+
+-        *Được cam kết tuyển dụng ngay sau khi tốt nghiệp mà không cần trải qua giai đoạn thử việc nếu bạn tham gia chương trình khi  chưa hoàn thành xong chương trình đại học*
+
+ 
+
+**Thông Tin Đăng Ký**
+
+**Website đăng ký:** <https://ticketbox.vn/event/java-recruitment-day-31122>
+
+**Hạn cuối đăng ký:** 13/07/2015
+
+Nếu bạn có thắc mắc hãy gửi câu hỏi về địa chỉ [career@kms-technology.com](mailto:career@kms-technology.com), chúng tôi sẽ sớm liên lạc và hướng dẫn bạn để hoàn tất các bước tham gia ngày hội tuyển dụng này. Bạn cũng có thể gọi cho chúng tôi với **h****otline**: 0938 118 997
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=e50a328d-41c9-4788-818e-08ed513c7759
+============================================================
+
+[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
+
+[THÔNG BÁO TUYỂN SINH VIÊN THỰC TẬP – CÔNG TY GAMELOFT](/?ArticleId=e50a328d-41c9-4788-818e-08ed513c7759)
+
+Tác giả :
+
+**![](/Resources/Images/SubDomain/fit/TuyenDung/Gameloft%202015.jpg)**
+
+**Thực tập sinh tài năng 2015 (1 khóa)**
+
+**Thời gian:           từ tháng 7 đến 8/2015;**
+
+**Số lượng:            10 người;**
+
+**Địa điểm:            Công ty Gameloft Vietnam, Etown2, 364 Cộng Hòa, quận Tân Bình.**
+
+**Thời hạn đăng kí là** **15/6/2015****. Nội dung chương trình thầy có thể xem cụ thể hơn trong file đính kèm.**
+
+**C++ Expert Training Course (mở hàng tháng)**
+
+**Thời gian:           Tháng 6, 7/2015;**
+
+**Số lượng:            10 người/ khóa;**
+
+**Địa điểm:            Công ty Gameloft Vietnam, Etown2, 364 Cộng Hòa, quận Tân Bình.**
+
+   
+[Chuong trinh Thuc tap sinh tai nang 2015-Gameloft.docx](/Resources/Docs/SubDomain/fit/tuyendung/Chuong trinh Thuc tap sinh tai nang 2015-Gameloft.docx)
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=66df0d42-ed28-413b-9659-56c077ae9fe1
+============================================================
+
+[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
+
+[TMA Industry Internship tuyển Thực tập sinh tháng 02/2026](/?ArticleId=66df0d42-ed28-413b-9659-56c077ae9fe1)
+
+Tác giả :
+
+![](/Resources/Images/SubDomain/fit/2026/Tuyen%20dung%20Thuc%20tap%20sinh%20khoa%2051.png)
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=0125ff03-52e9-4fa9-979d-03a30914b449
+============================================================
+
+[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
+
+[DXC VietNam tuyển dụng DECP SERVICENOW JAVASCRIPT - JAN 2026](/?ArticleId=0125ff03-52e9-4fa9-979d-03a30914b449)
+
+Tác giả :
+
+[DXC VIETNAM \_CHƯƠNG TRÌNH DECP SERVICEN OW JAVASCRIPT \_University \_Jan 2026.pdf](/Resources/Docs/SubDomain/fit/2026/DXC VIETNAM _CHƯƠNG TRÌNH DECP SERVICEN OW JAVASCRIPT _University _Jan 2026.pdf)
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=f53f4bba-95f6-4ec2-8ed0-3e445ba78d91
+============================================================
+
+[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
+
+[AA Corporation tuyển thực tập sinh](/?ArticleId=f53f4bba-95f6-4ec2-8ed0-3e445ba78d91)
+
+Tác giả :
+
+![](/Resources/Images/SubDomain/fit/2026/AACorp-tuyendung.jpg)
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=eb786df1-c0aa-4c72-9325-626912e5798e
+============================================================
+
+[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
+
+[FUJINET tuyển dụng JAVA/.NET Fresher Developers](/?ArticleId=eb786df1-c0aa-4c72-9325-626912e5798e)
+
+Tác giả :
+
+![](/Resources/Images/SubDomain/fit/2025/Poster_Tuyendung_202601_JAVA_NET.png)  
+[FUJINET\_tuyen dung thang 202601\_JAVA\_NET.pdf](/Resources/Docs/SubDomain/fit/2025/FUJINET_tuyen dung thang 202601_JAVA_NET.pdf)
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=0d3699f2-f6dd-4e16-91d7-b8dd90f2d0aa
+============================================================
+
+[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
+
+[TMA Tech Group tuyển dụng việc làm dành cho SV mới tốt nghiệp](/?ArticleId=0d3699f2-f6dd-4e16-91d7-b8dd90f2d0aa)
+
+Tác giả :
+
+![](/Resources/Images/SubDomain/fit/2025/TMA%20Talent%20Fresher%20Program.png)
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=56236604-0f9a-4981-9dd6-c48f12ba5de7
+============================================================
+
+[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
+
+[Công ty TNHH Du lịch Lửa Việt - Tuyển dụng nhân viên IT](/?ArticleId=56236604-0f9a-4981-9dd6-c48f12ba5de7)
+
+Tác giả :
+
+[luavietours\_Tuyendung-IT.pdf](/Resources/Docs/SubDomain/fit/2025/luavietours_Tuyendung-IT.pdf)
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=4a7eb039-767b-4074-a85f-4eb1463c66f0
+============================================================
+
+[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
+
+[HitachiDS tuyển dụng Thực tập sinh AI Engineering 12/2025](/?ArticleId=4a7eb039-767b-4074-a85f-4eb1463c66f0)
+
+Tác giả :
+
+![](/Resources/Images/SubDomain/fit/2025/Hiring%20AI%20Engineering%20Interns.png)  
+[Internship\_AI Engineering Intern\_Dec 2025.pdf](/Resources/Docs/SubDomain/fit/2025/Internship_AI Engineering Intern_Dec 2025.pdf)
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=7ac85f0a-0c44-4e57-a86d-7c6c43f3c488
+============================================================
+
+[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
+
+[FPT SOFTWARE HCM TUYỂN DỤNG FRESHER C++ WINAPP](/?ArticleId=7ac85f0a-0c44-4e57-a86d-7c6c43f3c488)
+
+Tác giả :
+
+FPT SOFTWARE HCM TUYỂN DỤNG FRESHER C++ WINAPP – CƠ HỘI VÀNG CHO SINH VIÊN CNTT 🔥  
+Bạn là sinh viên CNTT đã/sắp tốt nghiệp và muốn bắt đầu sự nghiệp với công nghệ Healthcare đỉnh cao? Đây chính là cơ hội dành cho bạn!  
+QUYỀN LỢI NỔI BẬT  
+✅ Đào tạo chuyên sâu 3-6 tháng về C++ WinApp  
+✅ Trợ cấp đào tạo hấp dẫn  
+✅ Cơ hội trở thành nhân viên chính thức tại FPT Software sau đào tạo với hàng loạt quyền lợi:  
+• Chế độ BHXH, BHYT, BHTN đầy đủ  
+• Bảo hiểm FPT Care, chế độ nghỉ mát đặc biệt  
+• Miễn phí phòng gym, sân bóng đá, tennis, xe đưa đón,..  
+✅ Được làm việc trong dự án thực tế quy mô lớn với khách hàng quốc tế  
+✅ Môi trường hiện đại, văn hóa năng động đậm chất FPT  
+YÊU CẦU  
+• Sinh viên đã/sắp tốt nghiệp ngành CNTT, Kỹ thuật máy tính  
+• Kiến thức lập trình căn bản (OOP, cấu trúc dữ liệu, giải thuật)  
+• Yêu thích C/C++, WinApp, .NET, SQL  
+• Tiếng Anh TOEIC ≥ 650 hoặc JLPT N3  
+• Có thể làm việc full-time (T2-T6, 8h-17h)  
+👉 Ứng tuyển ngay tại: <https://forms.gle/vC7LkvsgFn6R1wEB6>  
+![](/Resources/Images/SubDomain/fit/2025/FPT_FRESHER%20WINAPP.jpg)
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=3a44af80-f7d1-4e08-b500-2763df4ce865
+============================================================
+
+[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
+
+[DXC tuyển dụng DECP\_SOFTWARE ENGINEER JAPANESE COMMUNICATION](/?ArticleId=3a44af80-f7d1-4e08-b500-2763df4ce865)
+
+Tác giả :
+
+![](/Resources/Images/SubDomain/fit/2025/Japanese-SpeakingDECP%20Program%20-%20Dec%202025.jpg)  
+[DXC VIETNAM \_DECP DEVELOPER JAPANESE -University \_Dec 2025.pdf](/Resources/Docs/SubDomain/fit/2025/DXC VIETNAM _DECP DEVELOPER JAPANESE -University _Dec 2025.pdf)
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=b85d80d8-b1f1-4c59-8959-7d666ea6701d
+============================================================
+
+[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
+
+[FUJINET tuyển dụng tháng 12/2025](/?ArticleId=b85d80d8-b1f1-4c59-8959-7d666ea6701d)
+
+Tác giả :
+
+![](/Resources/Images/SubDomain/fit/2025/FUJINET_tuyen%20dung%20thang%20202512_JAVA_NET-POSTER.png)  
+[FUJINET\_tuyen dung thang 202512\_JAVA\_NET.pdf](/Resources/Docs/SubDomain/fit/2025/FUJINET_tuyen dung thang 202512_JAVA_NET.pdf)
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=48f49215-2801-47c7-ab5d-0049eca58191
+============================================================
+
+[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
+
+[FPT Software HCM TUYỂN DỤNG FRESHER JAVA DEVELOPER](/?ArticleId=48f49215-2801-47c7-ab5d-0049eca58191)
+
+Tác giả :
+
+![](/Resources/Images/SubDomain/fit/2025/FPT_FRESHER-JAVA.jpg)  
+FPT Software HCM đang tìm kiếm những ứng viên tiềm năng cho vị trí Fresher Java để tham gia vào đội ngũ nhân sự toàn cầu của chúng tôi.  
+Bạn sẽ được tham gia chương trình đào tạo chuyên sâu trong 3-6 tháng và có cơ hội làm việc chính thức sau khi hoàn thành khóa đào tạo.  
+YÊU CẦU ỨNG VIÊN  
+✅ Kiến thức lập trình cơ bản: Nắm vững các khái niệm cơ bản như biến, kiểu dữ liệu, điều kiện, vòng lặp, hàm… sẽ là nền tảng tốt để học và làm việc với Java.  
+✅ Kỹ năng sử dụng máy tính: Thành thạo máy tính, hệ điều hành và các ứng dụng phần mềm cơ bản để phục vụ cho việc lập trình.  
+✅ Tư duy logic & giải quyết vấn đề: Lập trình Java đòi hỏi tư duy logic, khả năng phân tích và giải quyết vấn đề hiệu quả.  
+✅ Khả năng toán học & phân tích: Hiểu biết cơ bản về toán học, thuật toán và xử lý dữ liệu sẽ giúp bạn làm việc tốt hơn với Java.  
+✅ Tiếng Anh giao tiếp tốt (TOEIC 700+ / IELTS 6.0+) và GPA từ 3.2 trở lên  
+QUYỀN LỢI  
+- Cơ hội việc làm toàn cầu với các văn phòng tại Mỹ, Nhật Bản, Hàn Quốc, Úc… và nhiều thị trường đang phát triển.  
+- Được đào tạo và cơ hội tham gia các dự án quốc tế, mở rộng sự nghiệp cùng FPT   
+- Học tập không giới hạn với hệ sinh thái Learning Galaxy và văn hóa học suốt đời.  
+- Thu nhập cạnh tranh, phúc lợi hấp dẫn và lộ trình thăng tiến rõ ràng.  
+- Trải nghiệm môi trường đa văn hóa, sáng tạo và đậm chất FPT  
+📌 Ứng tuyển ngay hôm nay tại: <https://forms.gle/vC7LkvsgFn6R1wEB6>
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=b989761b-76d8-470b-b0f5-56fe92764001
+============================================================
+
+[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
+
+[FUJINET tuyển dụng tháng 10/2025](/?ArticleId=b989761b-76d8-470b-b0f5-56fe92764001)
+
+Tác giả :
+
+![](/Resources/Images/SubDomain/fit/2025/FUJINET_tuyen%20dung%20thang%20202510_poster.png)  
+[FUJINET\_tuyen dung thang 202510\_JAVA\_NET.pdf](/Resources/Docs/SubDomain/fit/2025/FUJINET_tuyen dung thang 202510_JAVA_NET.pdf)
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=324b127f-a8a1-484e-9aab-490760a38622
+============================================================
+
+[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
+
+[TMA Industry Internship tuyển Thực tập sinh tháng 10/2025](/?ArticleId=324b127f-a8a1-484e-9aab-490760a38622)
+
+Tác giả :
+
+![](/Resources/Images/SubDomain/fit/2025/Tuyen%20dung%20Thuc%20tap%20sinh%20khoa%2050.jpg)  
+
+Sinh viên quan tâm vui lòng gửi hồ sơ bản mềm về địa chỉ email: [**intern@tma.com.vn**](mailto:intern@tma.com.vn) trước ngày **15/12/2025**. Hồ sơ bao gồm:
+
+* - CV tiếng Anh
+* - Giấy giới thiệu và bảng điểm mới nhất có xác nhận từ Nhà trường
+* - Chứng chỉ TOEIC/IELTS (nếu có)
+
+![](/Resources/ImagesPortal/HomePage/tinkhac.png)
+[
+
+============================================================
+URL: http://fit.hcmute.edu.vn/?ArticleId=40f4b891-fd98-4ae6-806b-ae8819afaed9
+============================================================
+
+[Việc làm - Doanh nghiệp](/?TopicId=d48b62d3-576a-412b-8a67-dc90214479fd)
+
+[Trường Đại học Y Dược Buôn Ma Thuột (BMU) thông báo tuyển dụng](/?ArticleId=40f4b891-fd98-4ae6-806b-ae8819afaed9)
+
+Tác giả :
+
+[357 TB tuyển dụng nhân sự 25-26.pdf](/Resources/Docs/SubDomain/fit/2025/357 TB tuyển dụng nhân sự 25-26.pdf)
 
 ![](/Resources/ImagesPortal/HomePage/tinkhac.png)
 [
