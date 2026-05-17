@@ -1,170 +1,117 @@
-import os
 import streamlit as st
 from sentence_transformers import SentenceTransformer
-import chromadb
-import google.generativeai as genai
-from dotenv import load_dotenv
+import traceback
 
-# Load .env file
-load_dotenv()
-
-# ==========================================
-# PAGE CONFIG (MUST BE FIRST)
-# ==========================================
 st.set_page_config(page_title="HCMUTE IT RAG Chatbot", layout="wide")
 
-# ==========================================
-# CONFIG
-# ==========================================
-# Lấy Key từ file .env ra
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+DB_PATH = "./db_khoa_cntt"
+COLLECTION_NAME = "tai_lieu_khoa_cntt"
+EMBEDDING_MODEL = "intfloat/multilingual-e5-base"
+OLLAMA_MODEL = "phi3.5"
+TOP_K = 5
 
-# Kiểm tra xem có lấy được Key không (đề phòng ai đó quên tạo file .env)
-if not GEMINI_API_KEY:
-    st.error("Lỗi: Chưa set biến môi trường GEMINI_API_KEY. Vui lòng kiểm tra file .env")
-    st.stop()
-
-try:
-    genai.configure(api_key=GEMINI_API_KEY)
-except Exception as e:
-    st.error(f"Lỗi khi configure Gemini: {str(e)}")
-    st.stop()
-
-# ==========================================
-# LIST AVAILABLE MODELS
-# ==========================================
-selected_model = None
-try:
-    available_models = [model.name for model in genai.list_models() if 'generateContent' in model.supported_generation_methods]
-    
-    # Select the first available model (silent mode, no UI)
-    if available_models:
-        selected_model = available_models[0].replace('models/', '')
-    else:
-        st.error("❌ Không có model nào khả dụng!")
-        st.stop()
-except Exception as e:
-    st.error(f"Lỗi khi liệt kê model: {str(e)}")
-    st.stop()
-
-# ==========================================
-# LOAD MODEL
-# ==========================================
-@st.cache_resource
-def load_embedding_model():
-    try:
-        return SentenceTransformer('intfloat/multilingual-e5-base')
-    except Exception as e:
-        st.error(f"Lỗi khi load embedding model: {str(e)}")
-        st.stop()
-
-try:
-    model = load_embedding_model()
-except Exception as e:
-    st.error(f"Lỗi: {str(e)}")
-    st.stop()
-
-# ==========================================
-# LOAD CHROMADB
-# ==========================================
-@st.cache_resource
-def load_db():
-    try:
-        client = chromadb.PersistentClient(path="./db_khoa_cntt")
-        collection = client.get_collection("tai_lieu_khoa_cntt")
-        return collection
-    except Exception as e:
-        st.error(f"Lỗi khi load ChromaDB: {str(e)}")
-        st.stop()
-
-try:
-    collection = load_db()
-except Exception as e:
-    st.error(f"Lỗi: {str(e)}")
-    st.stop()
-
-# ==========================================
-# GEMINI
-# ==========================================
-llm = genai.GenerativeModel(selected_model)
-
-# ==========================================
-# UI
-# ==========================================
-st.title(" HCMUTE IT RAG Chatbot")
-st.write("Hỏi đáp về các thông tin của Khoa CNTT - Trường ĐH Công nghệ Kỹ thuật TP.HCM")
-
+st.title("HCMUTE IT RAG Chatbot")
+st.write("Hỏi đáp về thông tin của Khoa Công nghệ Thông tin - HCMUTE")
 st.markdown("---")
 
-query = st.text_input("Nhập câu hỏi của bạn:", placeholder="Ví dụ: Khoa CNTT có những ngành học nào?")
+
+@st.cache_resource
+def load_embedding_model():
+    st.write("STEP 1: Loading embedding model...")
+    return SentenceTransformer(EMBEDDING_MODEL)
+
+
+@st.cache_resource
+def load_collection():
+    st.write("STEP 2: Loading ChromaDB...")
+    import chromadb
+    client = chromadb.PersistentClient(path=DB_PATH)
+    return client.get_collection(COLLECTION_NAME)
+
+
+def ask_ollama(prompt):
+    st.write("STEP 5: Calling Ollama...")
+    import ollama
+    response = ollama.chat(
+        model=OLLAMA_MODEL,
+        messages=[{"role": "user", "content": prompt}]
+    )
+    return response["message"]["content"]
+
+
+query = st.text_input(
+    "Nhập câu hỏi của bạn:",
+    placeholder="Ví dụ: Khoa CNTT có những bộ môn nào?"
+)
 
 if st.button("Hỏi"):
     if not query.strip():
-        st.warning("⚠️ Vui lòng nhập câu hỏi!")
-    else:
-        try:
-            # ======================================
-            # EMBED QUERY
-            # ======================================
-            formatted_query = "query: " + query
+        st.warning("Vui lòng nhập câu hỏi!")
+        st.stop()
 
-            query_embedding = model.encode(formatted_query).tolist()
+    try:
+        model = load_embedding_model()
+        collection = load_collection()
 
-            # ======================================
-            # RETRIEVE
-            # ======================================
-            results = collection.query(
-                query_embeddings=[query_embedding],
-                n_results=10,
-                include=["documents", "distances"]
+        st.write("STEP 3: Encoding query...")
+        query_embedding = model.encode(
+            "query: " + query,
+            normalize_embeddings=True
+        ).tolist()
+
+        st.write("STEP 4: Querying ChromaDB...")
+        results = collection.query(
+            query_embeddings=[query_embedding],
+            n_results=TOP_K,
+            include=["documents", "distances", "metadatas"]
+        )
+
+        documents = results["documents"][0]
+        distances = results["distances"][0]
+        metadatas = results["metadatas"][0]
+
+        context_blocks = []
+        for i, (doc, meta) in enumerate(zip(documents, metadatas), 1):
+            source = meta.get("source_url", "Không rõ nguồn")
+            context_blocks.append(
+                f"[Tài liệu {i}]\nNguồn: {source}\nNội dung:\n{doc}"
             )
 
-            documents = results['documents'][0]
-            distances = results['distances'][0]
+        context = "\n\n".join(context_blocks)
 
-            # ======================================
-            # CONTEXT
-            # ======================================
-            context = "\n\n".join(documents)
+        prompt = f"""
+Bạn là chatbot tư vấn của Khoa Công nghệ Thông tin HCMUTE.
 
-            # ======================================
-            # PROMPT
-            # ======================================
-            prompt = f"""
-    Bạn là trợ lý tư vấn của Khoa CNTT HCMUTE.
+Quy tắc trả lời:
+- Chỉ trả lời dựa trên Context.
+- Trả lời đúng trọng tâm câu hỏi.
+- Không lan man sang thông tin không được hỏi.
+- Nếu Context không có thông tin phù hợp, hãy trả lời: "Dữ liệu hiện tại chưa có thông tin này."
+- Không tự bịa thông tin ngoài Context.
 
-    Chỉ trả lời dựa trên context được cung cấp.
-    Nếu không có thông tin thì nói không tìm thấy.
+Context:
+{context}
 
-    Context:
-    {context}
+Câu hỏi:
+{query}
 
-    Question:
-    {query}
-    """
+Câu trả lời:
+"""
 
-            # ======================================
-            # GENERATE
-            # ======================================
-            response = llm.generate_content(prompt)
+        answer = ask_ollama(prompt)
 
-            # ======================================
-            # SHOW ANSWER
-            # ======================================
-            st.subheader("Câu trả lời")
-            st.write(response.text)
+        st.subheader("Câu trả lời")
+        st.write(answer)
 
-            # ======================================
-            # SHOW RETRIEVAL
-            # ======================================
-            st.subheader("Top Retrieved Chunks")
+        st.subheader("Top Retrieved Chunks")
+        for i, (doc, distance, meta) in enumerate(zip(documents, distances, metadatas), 1):
+            similarity = 1 - distance
+            source = meta.get("source_url", "Không rõ nguồn")
 
-            for i, (doc, distance) in enumerate(zip(documents, distances), 1):
+            with st.expander(f"Rank {i} - Similarity {similarity:.4f}"):
+                st.write(f"Nguồn: {source}")
+                st.write(doc)
 
-                similarity = 1 - distance
-
-                with st.expander(f"Rank {i} - Similarity {similarity:.4f}"):
-
-                    st.write(doc)
-        except Exception as e:
-            st.error(f" Lỗi khi xử lý câu hỏi: {str(e)}")
+    except Exception as e:
+        st.error("Có lỗi xảy ra:")
+        st.code(traceback.format_exc())
